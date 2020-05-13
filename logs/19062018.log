@@ -1,0 +1,12 @@
+19-06-2018 10:32:06.2 [ERROR] 
+{
+   "errno": -4058,
+   "code": "ENOENT",
+   "syscall": "open",
+   "path": "C:\\Users\\xsmael\\Pictures\\Logos\\CMFI\\scripts\\badge.svg"
+}
+19-06-2018 10:46:36.8 [NOTICE] 1-PravinJumnake
+19-06-2018 10:46:52.0 [NOTICE] 1-PravinJumnake
+19-06-2018 10:47:08.7 [NOTICE] 1-PravinJumnake.svg
+19-06-2018 10:49:43.3 [NOTICE] 1-PravinJumnake.svg
+19-06-2018 17:49:24.8 [NOTICE] 1-PravinJumnake.svg

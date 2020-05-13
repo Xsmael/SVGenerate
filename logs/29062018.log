@@ -1,0 +1,5473 @@
+29-06-2018 11:56:35.2 [NOTICE] 
+[
+   {
+      "": "",
+      "n": "1",
+      "name": "ELI NIANGORAN",
+      "dept": "PROTOCOL"
+   },
+   {
+      "": "",
+      "n": "2",
+      "name": "JOEL KAZADI",
+      "dept": "PROTOCOL"
+   },
+   {
+      "": "",
+      "n": "3",
+      "name": "SIDHU NANI",
+      "dept": "PROTOCOL"
+   },
+   {
+      "": "",
+      "n": "4",
+      "name": "JOHN BEIMY",
+      "dept": "PROTOCOL"
+   },
+   {
+      "": "",
+      "n": "5",
+      "name": "VALENTINE KEVINS",
+      "dept": "PROTOCOL"
+   },
+   {
+      "": "",
+      "n": "6",
+      "name": "Asha kumari Gupta",
+      "dept": "HEALTHCARE"
+   },
+   {
+      "": "",
+      "n": "7",
+      "name": "Malwa Chibango",
+      "dept": "HEALTHCARE"
+   },
+   {
+      "": "",
+      "n": "8",
+      "name": "Alex Tshilumba",
+      "dept": "HEALTHCARE"
+   },
+   {
+      "": "",
+      "n": "9",
+      "name": "Sarah",
+      "dept": "HEALTHCARE"
+   },
+   {
+      "": "",
+      "n": "10",
+      "name": "Anneth MILLEY",
+      "dept": "HEALTHCARE"
+   },
+   {
+      "": "",
+      "n": "11",
+      "name": "Naomi Sackey",
+      "dept": "HEALTHCARE"
+   },
+   {
+      "": "",
+      "n": "12",
+      "name": "JOSEPH NGALA",
+      "dept": "MEDIA"
+   },
+   {
+      "": "",
+      "n": "13",
+      "name": "Wilfried Lorou",
+      "dept": "MEDIA"
+   },
+   {
+      "": "",
+      "n": "14",
+      "name": "GHISLAIN NSUMPI",
+      "dept": "MEDIA"
+   },
+   {
+      "": "",
+      "n": "15",
+      "name": "Marcel LOKASSA",
+      "dept": "MEDIA"
+   },
+   {
+      "": "",
+      "n": "16",
+      "name": "Tresor THIABA",
+      "dept": "MEDIA"
+   },
+   {
+      "": "",
+      "n": "17",
+      "name": "JONATHAN NYENGWA",
+      "dept": "MEDIA"
+   },
+   {
+      "": "",
+      "n": "18",
+      "name": "Glody TSHIMANGA",
+      "dept": "MEDIA"
+   },
+   {
+      "": "",
+      "n": "19",
+      "name": "Ismael OUEDRAOGO",
+      "dept": "MEDIA"
+   },
+   {
+      "": "",
+      "n": "20",
+      "name": "CHANDAN THAKUR",
+      "dept": "CHOIR"
+   },
+   {
+      "": "",
+      "n": "21",
+      "name": "Anika MASSEY",
+      "dept": "CHOIR"
+   },
+   {
+      "": "",
+      "n": "22",
+      "name": "Serita ISAAC",
+      "dept": "CHOIR"
+   },
+   {
+      "": "",
+      "n": "23",
+      "name": "Jerry OSSEYI",
+      "dept": "CHOIR"
+   },
+   {
+      "": "",
+      "n": "24",
+      "name": "Eudoxie YOHALI",
+      "dept": "CHOIR"
+   },
+   {
+      "": "",
+      "n": "25",
+      "name": "Aristote BOFONDA",
+      "dept": "CHOIR"
+   },
+   {
+      "": "",
+      "n": "26",
+      "name": "Christelle NSENSELE",
+      "dept": "CHOIR"
+   },
+   {
+      "": "",
+      "n": "27",
+      "name": "Sarah MBUYI",
+      "dept": "CHOIR"
+   },
+   {
+      "": "",
+      "n": "28",
+      "name": "Sarah KUSI",
+      "dept": "CHOIR"
+   },
+   {
+      "": "",
+      "n": "29",
+      "name": "JEAN BEHIMY",
+      "dept": "CHOIR"
+   },
+   {
+      "": "",
+      "n": "30",
+      "name": "DAVID BOLOMO",
+      "dept": "CHOIR"
+   },
+   {
+      "": "",
+      "n": "31",
+      "name": "Anneth MILLEY",
+      "dept": "CHOIR"
+   },
+   {
+      "": "",
+      "n": "32",
+      "name": "Deborah MUSANGU",
+      "dept": "CHOIR"
+   },
+   {
+      "": "",
+      "n": "33",
+      "name": "Eden",
+      "dept": "CHOIR"
+   },
+   {
+      "": "",
+      "n": "34",
+      "name": "DIDIER LUBOYA",
+      "dept": "CHOIR"
+   },
+   {
+      "": "",
+      "n": "35",
+      "name": "Pr. BERTIN KENFACK",
+      "dept": "ADMINISTRATION"
+   },
+   {
+      "": "",
+      "n": "36",
+      "name": "GRACE COLOMBE",
+      "dept": "ADMINISTRATION"
+   },
+   {
+      "": "",
+      "n": "37",
+      "name": "HERVE GOBEU",
+      "dept": "ADMINISTRATION"
+   },
+   {
+      "": "",
+      "n": "38",
+      "name": "Neha KENFACK",
+      "dept": "ADMINISTRATION"
+   },
+   {
+      "": "",
+      "n": "",
+      "name": "",
+      "dept": ""
+   },
+   {
+      "": "",
+      "n": "",
+      "name": "",
+      "dept": ""
+   },
+   {
+      "": "",
+      "n": "",
+      "name": "",
+      "dept": ""
+   },
+   {
+      "": "",
+      "n": "",
+      "name": "",
+      "dept": ""
+   },
+   {
+      "": "",
+      "n": "",
+      "name": "",
+      "dept": ""
+   },
+   {
+      "": "",
+      "n": "",
+      "name": "",
+      "dept": ""
+   },
+   {
+      "": "",
+      "n": "",
+      "name": "",
+      "dept": ""
+   },
+   {
+      "": "",
+      "n": "",
+      "name": "",
+      "dept": ""
+   },
+   {
+      "": "",
+      "n": "",
+      "name": "",
+      "dept": ""
+   },
+   {
+      "": "",
+      "n": "",
+      "name": "",
+      "dept": ""
+   },
+   {
+      "": "",
+      "n": "",
+      "name": "",
+      "dept": ""
+   },
+   {
+      "": "",
+      "n": "",
+      "name": "",
+      "dept": ""
+   },
+   {
+      "": "",
+      "n": "",
+      "name": "",
+      "dept": ""
+   },
+   {
+      "": "",
+      "n": "",
+      "name": "",
+      "dept": ""
+   },
+   {
+      "": "",
+      "n": "",
+      "name": "",
+      "dept": ""
+   },
+   {
+      "": "",
+      "n": "",
+      "name": "",
+      "dept": ""
+   },
+   {
+      "": "",
+      "n": "",
+      "name": "",
+      "dept": ""
+   },
+   {
+      "": "",
+      "n": "",
+      "name": "",
+      "dept": ""
+   },
+   {
+      "": "",
+      "n": "",
+      "name": "",
+      "dept": ""
+   },
+   {
+      "": "",
+      "n": "",
+      "name": "",
+      "dept": ""
+   },
+   {
+      "": "",
+      "n": "",
+      "name": "",
+      "dept": ""
+   },
+   {
+      "": "",
+      "n": "",
+      "name": "",
+      "dept": ""
+   },
+   {
+      "": "",
+      "n": "",
+      "name": "",
+      "dept": ""
+   },
+   {
+      "": "",
+      "n": "",
+      "name": "",
+      "dept": ""
+   },
+   {
+      "": "",
+      "n": "",
+      "name": "",
+      "dept": ""
+   },
+   {
+      "": "",
+      "n": "",
+      "name": "",
+      "dept": ""
+   },
+   {
+      "": "",
+      "n": "",
+      "name": "",
+      "dept": ""
+   },
+   {
+      "": "",
+      "n": "",
+      "name": "",
+      "dept": ""
+   },
+   {
+      "": "",
+      "n": "",
+      "name": "",
+      "dept": ""
+   },
+   {
+      "": "",
+      "n": "",
+      "name": "",
+      "dept": ""
+   },
+   {
+      "": "",
+      "n": "",
+      "name": "",
+      "dept": ""
+   },
+   {
+      "": "",
+      "n": "",
+      "name": "",
+      "dept": ""
+   },
+   {
+      "": "",
+      "n": "",
+      "name": "",
+      "dept": ""
+   },
+   {
+      "": "",
+      "n": "",
+      "name": "",
+      "dept": ""
+   },
+   {
+      "": "",
+      "n": "",
+      "name": "",
+      "dept": ""
+   },
+   {
+      "": "",
+      "n": "",
+      "name": "",
+      "dept": ""
+   },
+   {
+      "": "",
+      "n": "",
+      "name": "",
+      "dept": ""
+   },
+   {
+      "": "",
+      "n": "",
+      "name": "",
+      "dept": ""
+   },
+   {
+      "": "",
+      "n": "",
+      "name": "",
+      "dept": ""
+   },
+   {
+      "": "",
+      "n": "",
+      "name": "",
+      "dept": ""
+   },
+   {
+      "": "",
+      "n": "",
+      "name": "",
+      "dept": ""
+   },
+   {
+      "": "",
+      "n": "",
+      "name": "",
+      "dept": ""
+   },
+   {
+      "": "",
+      "n": "",
+      "name": "",
+      "dept": ""
+   },
+   {
+      "": "",
+      "n": "",
+      "name": "",
+      "dept": ""
+   },
+   {
+      "": "",
+      "n": "",
+      "name": "",
+      "dept": ""
+   },
+   {
+      "": "",
+      "n": "",
+      "name": "",
+      "dept": ""
+   },
+   {
+      "": "",
+      "n": "",
+      "name": "",
+      "dept": ""
+   },
+   {
+      "": "",
+      "n": "",
+      "name": "",
+      "dept": ""
+   },
+   {
+      "": "",
+      "n": "",
+      "name": "",
+      "dept": ""
+   },
+   {
+      "": "",
+      "n": "",
+      "name": "",
+      "dept": ""
+   },
+   {
+      "": "",
+      "n": "",
+      "name": "",
+      "dept": ""
+   },
+   {
+      "": "",
+      "n": "",
+      "name": "",
+      "dept": ""
+   },
+   {
+      "": "",
+      "n": "",
+      "name": "",
+      "dept": ""
+   },
+   {
+      "": "",
+      "n": "",
+      "name": "",
+      "dept": ""
+   },
+   {
+      "": "",
+      "n": "",
+      "name": "",
+      "dept": ""
+   },
+   {
+      "": "",
+      "n": "",
+      "name": "",
+      "dept": ""
+   },
+   {
+      "": "",
+      "n": "",
+      "name": "",
+      "dept": ""
+   },
+   {
+      "": "",
+      "n": "",
+      "name": "",
+      "dept": ""
+   },
+   {
+      "": "",
+      "n": "",
+      "name": "",
+      "dept": ""
+   },
+   {
+      "": "",
+      "n": "",
+      "name": "",
+      "dept": ""
+   },
+   {
+      "": "",
+      "n": "",
+      "name": "",
+      "dept": ""
+   },
+   {
+      "": "",
+      "n": "",
+      "name": "",
+      "dept": ""
+   },
+   {
+      "": "",
+      "n": "",
+      "name": "",
+      "dept": ""
+   },
+   {
+      "": "",
+      "n": "",
+      "name": "",
+      "dept": ""
+   },
+   {
+      "": "",
+      "n": "",
+      "name": "",
+      "dept": ""
+   },
+   {
+      "": "",
+      "n": "",
+      "name": "",
+      "dept": ""
+   },
+   {
+      "": "",
+      "n": "",
+      "name": "",
+      "dept": ""
+   },
+   {
+      "": "",
+      "n": "",
+      "name": "",
+      "dept": ""
+   },
+   {
+      "": "",
+      "n": "",
+      "name": "",
+      "dept": ""
+   },
+   {
+      "": "",
+      "n": "",
+      "name": "",
+      "dept": ""
+   },
+   {
+      "": "",
+      "n": "",
+      "name": "",
+      "dept": ""
+   },
+   {
+      "": "",
+      "n": "",
+      "name": "",
+      "dept": ""
+   },
+   {
+      "": "",
+      "n": "",
+      "name": "",
+      "dept": ""
+   },
+   {
+      "": "",
+      "n": "",
+      "name": "",
+      "dept": ""
+   },
+   {
+      "": "",
+      "n": "",
+      "name": "",
+      "dept": ""
+   },
+   {
+      "": "",
+      "n": "",
+      "name": "",
+      "dept": ""
+   },
+   {
+      "": "",
+      "n": "",
+      "name": "",
+      "dept": ""
+   },
+   {
+      "": "",
+      "n": "",
+      "name": "",
+      "dept": ""
+   },
+   {
+      "": "",
+      "n": "",
+      "name": "",
+      "dept": ""
+   },
+   {
+      "": "",
+      "n": "",
+      "name": "",
+      "dept": ""
+   },
+   {
+      "": "",
+      "n": "",
+      "name": "",
+      "dept": ""
+   },
+   {
+      "": "",
+      "n": "",
+      "name": "",
+      "dept": ""
+   },
+   {
+      "": "",
+      "n": "",
+      "name": "",
+      "dept": ""
+   },
+   {
+      "": "",
+      "n": "",
+      "name": "",
+      "dept": ""
+   },
+   {
+      "": "",
+      "n": "",
+      "name": "",
+      "dept": ""
+   },
+   {
+      "": "",
+      "n": "",
+      "name": "",
+      "dept": ""
+   },
+   {
+      "": "",
+      "n": "",
+      "name": "",
+      "dept": ""
+   },
+   {
+      "": "",
+      "n": "",
+      "name": "",
+      "dept": ""
+   },
+   {
+      "": "",
+      "n": "",
+      "name": "",
+      "dept": ""
+   },
+   {
+      "": "",
+      "n": "",
+      "name": "",
+      "dept": ""
+   },
+   {
+      "": "",
+      "n": "",
+      "name": "",
+      "dept": ""
+   },
+   {
+      "": "",
+      "n": "",
+      "name": "",
+      "dept": ""
+   },
+   {
+      "": "",
+      "n": "",
+      "name": "",
+      "dept": ""
+   },
+   {
+      "": "",
+      "n": "",
+      "name": "",
+      "dept": ""
+   },
+   {
+      "": "",
+      "n": "",
+      "name": "",
+      "dept": ""
+   },
+   {
+      "": "",
+      "n": "",
+      "name": "",
+      "dept": ""
+   },
+   {
+      "": "",
+      "n": "",
+      "name": "",
+      "dept": ""
+   },
+   {
+      "": "",
+      "n": "",
+      "name": "",
+      "dept": ""
+   },
+   {
+      "": "",
+      "n": "",
+      "name": "",
+      "dept": ""
+   },
+   {
+      "": "",
+      "n": "",
+      "name": "",
+      "dept": ""
+   },
+   {
+      "": "",
+      "n": "",
+      "name": "",
+      "dept": ""
+   },
+   {
+      "": "",
+      "n": "",
+      "name": "",
+      "dept": ""
+   },
+   {
+      "": "",
+      "n": "",
+      "name": "",
+      "dept": ""
+   },
+   {
+      "": "",
+      "n": "",
+      "name": "",
+      "dept": ""
+   },
+   {
+      "": "",
+      "n": "",
+      "name": "",
+      "dept": ""
+   },
+   {
+      "": "",
+      "n": "",
+      "name": "",
+      "dept": ""
+   },
+   {
+      "": "",
+      "n": "",
+      "name": "",
+      "dept": ""
+   },
+   {
+      "": "",
+      "n": "",
+      "name": "",
+      "dept": ""
+   },
+   {
+      "": "",
+      "n": "",
+      "name": "",
+      "dept": ""
+   },
+   {
+      "": "",
+      "n": "",
+      "name": "",
+      "dept": ""
+   },
+   {
+      "": "",
+      "n": "",
+      "name": "",
+      "dept": ""
+   },
+   {
+      "": "",
+      "n": "",
+      "name": "",
+      "dept": ""
+   },
+   {
+      "": "",
+      "n": "",
+      "name": "",
+      "dept": ""
+   },
+   {
+      "": "",
+      "n": "",
+      "name": "",
+      "dept": ""
+   },
+   {
+      "": "",
+      "n": "",
+      "name": "",
+      "dept": ""
+   },
+   {
+      "": "",
+      "n": "",
+      "name": "",
+      "dept": ""
+   },
+   {
+      "": "",
+      "n": "",
+      "name": "",
+      "dept": ""
+   },
+   {
+      "": "",
+      "n": "",
+      "name": "",
+      "dept": ""
+   },
+   {
+      "": "",
+      "n": "",
+      "name": "",
+      "dept": ""
+   },
+   {
+      "": "",
+      "n": "",
+      "name": "",
+      "dept": ""
+   },
+   {
+      "": "",
+      "n": "",
+      "name": "",
+      "dept": ""
+   },
+   {
+      "": "",
+      "n": "",
+      "name": "",
+      "dept": ""
+   },
+   {
+      "": "",
+      "n": "",
+      "name": "",
+      "dept": ""
+   },
+   {
+      "": "",
+      "n": "",
+      "name": "",
+      "dept": ""
+   },
+   {
+      "": "",
+      "n": "",
+      "name": "",
+      "dept": ""
+   },
+   {
+      "": "",
+      "n": "",
+      "name": "",
+      "dept": ""
+   },
+   {
+      "": "",
+      "n": "",
+      "name": "",
+      "dept": ""
+   },
+   {
+      "": "",
+      "n": "",
+      "name": "",
+      "dept": ""
+   },
+   {
+      "": "",
+      "n": "",
+      "name": "",
+      "dept": ""
+   },
+   {
+      "": "",
+      "n": "",
+      "name": "",
+      "dept": ""
+   },
+   {
+      "": "",
+      "n": "",
+      "name": "",
+      "dept": ""
+   },
+   {
+      "": "",
+      "n": "",
+      "name": "",
+      "dept": ""
+   },
+   {
+      "": "",
+      "n": "",
+      "name": "",
+      "dept": ""
+   },
+   {
+      "": "",
+      "n": "",
+      "name": "",
+      "dept": ""
+   },
+   {
+      "": "",
+      "n": "",
+      "name": "",
+      "dept": ""
+   },
+   {
+      "": "",
+      "n": "",
+      "name": "",
+      "dept": ""
+   },
+   {
+      "": "",
+      "n": "",
+      "name": "",
+      "dept": ""
+   },
+   {
+      "": "",
+      "n": "",
+      "name": "",
+      "dept": ""
+   },
+   {
+      "": "",
+      "n": "",
+      "name": "",
+      "dept": ""
+   },
+   {
+      "": "",
+      "n": "",
+      "name": "",
+      "dept": ""
+   },
+   {
+      "": "",
+      "n": "",
+      "name": "",
+      "dept": ""
+   },
+   {
+      "": "",
+      "n": "",
+      "name": "",
+      "dept": ""
+   },
+   {
+      "": "",
+      "n": "",
+      "name": "",
+      "dept": ""
+   },
+   {
+      "": "",
+      "n": "",
+      "name": "",
+      "dept": ""
+   },
+   {
+      "": "",
+      "n": "",
+      "name": "",
+      "dept": ""
+   },
+   {
+      "": "",
+      "n": "",
+      "name": "",
+      "dept": ""
+   },
+   {
+      "": "",
+      "n": "",
+      "name": "",
+      "dept": ""
+   },
+   {
+      "": "",
+      "n": "",
+      "name": "",
+      "dept": ""
+   },
+   {
+      "": "",
+      "n": "",
+      "name": "",
+      "dept": ""
+   },
+   {
+      "": "",
+      "n": "",
+      "name": "",
+      "dept": ""
+   },
+   {
+      "": "",
+      "n": "",
+      "name": "",
+      "dept": ""
+   },
+   {
+      "": "",
+      "n": "",
+      "name": "",
+      "dept": ""
+   },
+   {
+      "": "",
+      "n": "",
+      "name": "",
+      "dept": ""
+   },
+   {
+      "": "",
+      "n": "",
+      "name": "",
+      "dept": ""
+   },
+   {
+      "": "",
+      "n": "",
+      "name": "",
+      "dept": ""
+   },
+   {
+      "": "",
+      "n": "",
+      "name": "",
+      "dept": ""
+   },
+   {
+      "": "",
+      "n": "",
+      "name": "",
+      "dept": ""
+   },
+   {
+      "": "",
+      "n": "",
+      "name": "",
+      "dept": ""
+   },
+   {
+      "": "",
+      "n": "",
+      "name": "",
+      "dept": ""
+   },
+   {
+      "": "",
+      "n": "",
+      "name": "",
+      "dept": ""
+   },
+   {
+      "": "",
+      "n": "",
+      "name": "",
+      "dept": ""
+   },
+   {
+      "": "",
+      "n": "",
+      "name": "",
+      "dept": ""
+   },
+   {
+      "": "",
+      "n": "",
+      "name": "",
+      "dept": ""
+   },
+   {
+      "": "",
+      "n": "",
+      "name": "",
+      "dept": ""
+   },
+   {
+      "": "",
+      "n": "",
+      "name": "",
+      "dept": ""
+   },
+   {
+      "": "",
+      "n": "",
+      "name": "",
+      "dept": ""
+   },
+   {
+      "": "",
+      "n": "",
+      "name": "",
+      "dept": ""
+   }
+]
+29-06-2018 11:58:28.5 [NOTICE] 
+[
+   {
+      "dept": "PROTOCOL",
+      "n": "1",
+      "name": "ELI NIANGORAN"
+   },
+   {
+      "dept": "PROTOCOL",
+      "n": "2",
+      "name": "JOEL KAZADI"
+   },
+   {
+      "dept": "PROTOCOL",
+      "n": "3",
+      "name": "SIDHU NANI"
+   },
+   {
+      "dept": "PROTOCOL",
+      "n": "4",
+      "name": "JOHN BEIMY"
+   },
+   {
+      "dept": "PROTOCOL",
+      "n": "5",
+      "name": "VALENTINE KEVINS"
+   },
+   {
+      "dept": "HEALTHCARE",
+      "n": "6",
+      "name": "Asha kumari Gupta"
+   },
+   {
+      "dept": "HEALTHCARE",
+      "n": "7",
+      "name": "Malwa Chibango"
+   },
+   {
+      "dept": "HEALTHCARE",
+      "n": "8",
+      "name": "Alex Tshilumba"
+   },
+   {
+      "dept": "HEALTHCARE",
+      "n": "9",
+      "name": "Sarah"
+   },
+   {
+      "dept": "HEALTHCARE",
+      "n": "10",
+      "name": "Anneth MILLEY"
+   },
+   {
+      "dept": "HEALTHCARE",
+      "n": "11",
+      "name": "Naomi Sackey"
+   },
+   {
+      "dept": "MEDIA",
+      "n": "12",
+      "name": "JOSEPH NGALA"
+   },
+   {
+      "dept": "MEDIA",
+      "n": "13",
+      "name": "Wilfried Lorou"
+   },
+   {
+      "dept": "MEDIA",
+      "n": "14",
+      "name": "GHISLAIN NSUMPI"
+   },
+   {
+      "dept": "MEDIA",
+      "n": "15",
+      "name": "Marcel LOKASSA"
+   },
+   {
+      "dept": "MEDIA",
+      "n": "16",
+      "name": "Tresor THIABA"
+   },
+   {
+      "dept": "MEDIA",
+      "n": "17",
+      "name": "JONATHAN NYENGWA"
+   },
+   {
+      "dept": "MEDIA",
+      "n": "18",
+      "name": "Glody TSHIMANGA"
+   },
+   {
+      "dept": "MEDIA",
+      "n": "19",
+      "name": "Ismael OUEDRAOGO"
+   },
+   {
+      "dept": "CHOIR",
+      "n": "20",
+      "name": "CHANDAN THAKUR"
+   },
+   {
+      "dept": "CHOIR",
+      "n": "21",
+      "name": "Anika MASSEY"
+   },
+   {
+      "dept": "CHOIR",
+      "n": "22",
+      "name": "Serita ISAAC"
+   },
+   {
+      "dept": "CHOIR",
+      "n": "23",
+      "name": "Jerry OSSEYI"
+   },
+   {
+      "dept": "CHOIR",
+      "n": "24",
+      "name": "Eudoxie YOHALI"
+   },
+   {
+      "dept": "CHOIR",
+      "n": "25",
+      "name": "Aristote BOFONDA"
+   },
+   {
+      "dept": "CHOIR",
+      "n": "26",
+      "name": "Christelle NSENSELE"
+   },
+   {
+      "dept": "CHOIR",
+      "n": "27",
+      "name": "Sarah MBUYI"
+   },
+   {
+      "dept": "CHOIR",
+      "n": "28",
+      "name": "Sarah KUSI"
+   },
+   {
+      "dept": "CHOIR",
+      "n": "29",
+      "name": "JEAN BEHIMY"
+   },
+   {
+      "dept": "CHOIR",
+      "n": "30",
+      "name": "DAVID BOLOMO"
+   },
+   {
+      "dept": "CHOIR",
+      "n": "31",
+      "name": "Anneth MILLEY"
+   },
+   {
+      "dept": "CHOIR",
+      "n": "32",
+      "name": "Deborah MUSANGU"
+   },
+   {
+      "dept": "CHOIR",
+      "n": "33",
+      "name": "Eden"
+   },
+   {
+      "dept": "CHOIR",
+      "n": "34",
+      "name": "DIDIER LUBOYA"
+   },
+   {
+      "dept": "ADMINISTRATION",
+      "n": "35",
+      "name": "Pr. BERTIN KENFACK"
+   },
+   {
+      "dept": "ADMINISTRATION",
+      "n": "36",
+      "name": "GRACE COLOMBE"
+   },
+   {
+      "dept": "ADMINISTRATION",
+      "n": "37",
+      "name": "HERVE GOBEU"
+   },
+   {
+      "dept": "ADMINISTRATION",
+      "n": "38",
+      "name": "Neha KENFACK"
+   },
+   {
+      "dept": "",
+      "n": "",
+      "name": ""
+   },
+   {
+      "dept": "",
+      "n": "",
+      "name": ""
+   },
+   {
+      "dept": "",
+      "n": "",
+      "name": ""
+   },
+   {
+      "dept": "",
+      "n": "",
+      "name": ""
+   },
+   {
+      "dept": "",
+      "n": "",
+      "name": ""
+   },
+   {
+      "dept": "",
+      "n": "",
+      "name": ""
+   },
+   {
+      "dept": "",
+      "n": "",
+      "name": ""
+   },
+   {
+      "dept": "",
+      "n": "",
+      "name": ""
+   },
+   {
+      "dept": "",
+      "n": "",
+      "name": ""
+   },
+   {
+      "dept": "",
+      "n": "",
+      "name": ""
+   },
+   {
+      "dept": "",
+      "n": "",
+      "name": ""
+   },
+   {
+      "dept": "",
+      "n": "",
+      "name": ""
+   },
+   {
+      "dept": "",
+      "n": "",
+      "name": ""
+   },
+   {
+      "dept": "",
+      "n": "",
+      "name": ""
+   },
+   {
+      "dept": "",
+      "n": "",
+      "name": ""
+   },
+   {
+      "dept": "",
+      "n": "",
+      "name": ""
+   },
+   {
+      "dept": "",
+      "n": "",
+      "name": ""
+   },
+   {
+      "dept": "",
+      "n": "",
+      "name": ""
+   },
+   {
+      "dept": "",
+      "n": "",
+      "name": ""
+   },
+   {
+      "dept": "",
+      "n": "",
+      "name": ""
+   },
+   {
+      "dept": "",
+      "n": "",
+      "name": ""
+   },
+   {
+      "dept": "",
+      "n": "",
+      "name": ""
+   },
+   {
+      "dept": "",
+      "n": "",
+      "name": ""
+   },
+   {
+      "dept": "",
+      "n": "",
+      "name": ""
+   },
+   {
+      "dept": "",
+      "n": "",
+      "name": ""
+   },
+   {
+      "dept": "",
+      "n": "",
+      "name": ""
+   },
+   {
+      "dept": "",
+      "n": "",
+      "name": ""
+   },
+   {
+      "dept": "",
+      "n": "",
+      "name": ""
+   },
+   {
+      "dept": "",
+      "n": "",
+      "name": ""
+   },
+   {
+      "dept": "",
+      "n": "",
+      "name": ""
+   },
+   {
+      "dept": "",
+      "n": "",
+      "name": ""
+   },
+   {
+      "dept": "",
+      "n": "",
+      "name": ""
+   },
+   {
+      "dept": "",
+      "n": "",
+      "name": ""
+   },
+   {
+      "dept": "",
+      "n": "",
+      "name": ""
+   },
+   {
+      "dept": "",
+      "n": "",
+      "name": ""
+   },
+   {
+      "dept": "",
+      "n": "",
+      "name": ""
+   },
+   {
+      "dept": "",
+      "n": "",
+      "name": ""
+   },
+   {
+      "dept": "",
+      "n": "",
+      "name": ""
+   },
+   {
+      "dept": "",
+      "n": "",
+      "name": ""
+   },
+   {
+      "dept": "",
+      "n": "",
+      "name": ""
+   },
+   {
+      "dept": "",
+      "n": "",
+      "name": ""
+   },
+   {
+      "dept": "",
+      "n": "",
+      "name": ""
+   },
+   {
+      "dept": "",
+      "n": "",
+      "name": ""
+   },
+   {
+      "dept": "",
+      "n": "",
+      "name": ""
+   },
+   {
+      "dept": "",
+      "n": "",
+      "name": ""
+   },
+   {
+      "dept": "",
+      "n": "",
+      "name": ""
+   },
+   {
+      "dept": "",
+      "n": "",
+      "name": ""
+   },
+   {
+      "dept": "",
+      "n": "",
+      "name": ""
+   },
+   {
+      "dept": "",
+      "n": "",
+      "name": ""
+   },
+   {
+      "dept": "",
+      "n": "",
+      "name": ""
+   }
+]
+29-06-2018 11:59:18.6 [NOTICE] 
+[
+   {
+      "dept": "PROTOCOL",
+      "n": "1",
+      "name": "ELI NIANGORAN"
+   },
+   {
+      "dept": "PROTOCOL",
+      "n": "2",
+      "name": "JOEL KAZADI"
+   },
+   {
+      "dept": "PROTOCOL",
+      "n": "3",
+      "name": "SIDHU NANI"
+   },
+   {
+      "dept": "PROTOCOL",
+      "n": "4",
+      "name": "JOHN BEIMY"
+   },
+   {
+      "dept": "PROTOCOL",
+      "n": "5",
+      "name": "VALENTINE KEVINS"
+   },
+   {
+      "dept": "HEALTHCARE",
+      "n": "6",
+      "name": "Asha kumari Gupta"
+   },
+   {
+      "dept": "HEALTHCARE",
+      "n": "7",
+      "name": "Malwa Chibango"
+   },
+   {
+      "dept": "HEALTHCARE",
+      "n": "8",
+      "name": "Alex Tshilumba"
+   },
+   {
+      "dept": "HEALTHCARE",
+      "n": "9",
+      "name": "Sarah"
+   },
+   {
+      "dept": "HEALTHCARE",
+      "n": "10",
+      "name": "Anneth MILLEY"
+   },
+   {
+      "dept": "HEALTHCARE",
+      "n": "11",
+      "name": "Naomi Sackey"
+   },
+   {
+      "dept": "MEDIA",
+      "n": "12",
+      "name": "JOSEPH NGALA"
+   },
+   {
+      "dept": "MEDIA",
+      "n": "13",
+      "name": "Wilfried Lorou"
+   },
+   {
+      "dept": "MEDIA",
+      "n": "14",
+      "name": "GHISLAIN NSUMPI"
+   },
+   {
+      "dept": "MEDIA",
+      "n": "15",
+      "name": "Marcel LOKASSA"
+   },
+   {
+      "dept": "MEDIA",
+      "n": "16",
+      "name": "Tresor THIABA"
+   },
+   {
+      "dept": "MEDIA",
+      "n": "17",
+      "name": "JONATHAN NYENGWA"
+   },
+   {
+      "dept": "MEDIA",
+      "n": "18",
+      "name": "Glody TSHIMANGA"
+   },
+   {
+      "dept": "MEDIA",
+      "n": "19",
+      "name": "Ismael OUEDRAOGO"
+   },
+   {
+      "dept": "CHOIR",
+      "n": "20",
+      "name": "CHANDAN THAKUR"
+   },
+   {
+      "dept": "CHOIR",
+      "n": "21",
+      "name": "Anika MASSEY"
+   },
+   {
+      "dept": "CHOIR",
+      "n": "22",
+      "name": "Serita ISAAC"
+   },
+   {
+      "dept": "CHOIR",
+      "n": "23",
+      "name": "Jerry OSSEYI"
+   },
+   {
+      "dept": "CHOIR",
+      "n": "24",
+      "name": "Eudoxie YOHALI"
+   },
+   {
+      "dept": "CHOIR",
+      "n": "25",
+      "name": "Aristote BOFONDA"
+   },
+   {
+      "dept": "CHOIR",
+      "n": "26",
+      "name": "Christelle NSENSELE"
+   },
+   {
+      "dept": "CHOIR",
+      "n": "27",
+      "name": "Sarah MBUYI"
+   },
+   {
+      "dept": "CHOIR",
+      "n": "28",
+      "name": "Sarah KUSI"
+   },
+   {
+      "dept": "CHOIR",
+      "n": "29",
+      "name": "JEAN BEHIMY"
+   },
+   {
+      "dept": "CHOIR",
+      "n": "30",
+      "name": "DAVID BOLOMO"
+   },
+   {
+      "dept": "CHOIR",
+      "n": "31",
+      "name": "Anneth MILLEY"
+   },
+   {
+      "dept": "CHOIR",
+      "n": "32",
+      "name": "Deborah MUSANGU"
+   },
+   {
+      "dept": "CHOIR",
+      "n": "33",
+      "name": "Eden"
+   },
+   {
+      "dept": "CHOIR",
+      "n": "34",
+      "name": "DIDIER LUBOYA"
+   },
+   {
+      "dept": "ADMINISTRATION",
+      "n": "35",
+      "name": "Pr. BERTIN KENFACK"
+   },
+   {
+      "dept": "ADMINISTRATION",
+      "n": "36",
+      "name": "GRACE COLOMBE"
+   },
+   {
+      "dept": "ADMINISTRATION",
+      "n": "37",
+      "name": "HERVE GOBEU"
+   },
+   {
+      "dept": "ADMINISTRATION",
+      "n": "38",
+      "name": "Neha KENFACK"
+   },
+   {
+      "dept": "",
+      "n": "",
+      "name": ""
+   },
+   {
+      "dept": "",
+      "n": "",
+      "name": ""
+   },
+   {
+      "dept": "",
+      "n": "",
+      "name": ""
+   },
+   {
+      "dept": "",
+      "n": "",
+      "name": ""
+   },
+   {
+      "dept": "",
+      "n": "",
+      "name": ""
+   },
+   {
+      "dept": "",
+      "n": "",
+      "name": ""
+   },
+   {
+      "dept": "",
+      "n": "",
+      "name": ""
+   },
+   {
+      "dept": "",
+      "n": "",
+      "name": ""
+   },
+   {
+      "dept": "",
+      "n": "",
+      "name": ""
+   },
+   {
+      "dept": "",
+      "n": "",
+      "name": ""
+   },
+   {
+      "dept": "",
+      "n": "",
+      "name": ""
+   },
+   {
+      "dept": "",
+      "n": "",
+      "name": ""
+   },
+   {
+      "dept": "",
+      "n": "",
+      "name": ""
+   },
+   {
+      "dept": "",
+      "n": "",
+      "name": ""
+   },
+   {
+      "dept": "",
+      "n": "",
+      "name": ""
+   },
+   {
+      "dept": "",
+      "n": "",
+      "name": ""
+   },
+   {
+      "dept": "",
+      "n": "",
+      "name": ""
+   },
+   {
+      "dept": "",
+      "n": "",
+      "name": ""
+   },
+   {
+      "dept": "",
+      "n": "",
+      "name": ""
+   },
+   {
+      "dept": "",
+      "n": "",
+      "name": ""
+   },
+   {
+      "dept": "",
+      "n": "",
+      "name": ""
+   },
+   {
+      "dept": "",
+      "n": "",
+      "name": ""
+   },
+   {
+      "dept": "",
+      "n": "",
+      "name": ""
+   },
+   {
+      "dept": "",
+      "n": "",
+      "name": ""
+   },
+   {
+      "dept": "",
+      "n": "",
+      "name": ""
+   },
+   {
+      "dept": "",
+      "n": "",
+      "name": ""
+   },
+   {
+      "dept": "",
+      "n": "",
+      "name": ""
+   },
+   {
+      "dept": "",
+      "n": "",
+      "name": ""
+   },
+   {
+      "dept": "",
+      "n": "",
+      "name": ""
+   },
+   {
+      "dept": "",
+      "n": "",
+      "name": ""
+   },
+   {
+      "dept": "",
+      "n": "",
+      "name": ""
+   },
+   {
+      "dept": "",
+      "n": "",
+      "name": ""
+   },
+   {
+      "dept": "",
+      "n": "",
+      "name": ""
+   },
+   {
+      "dept": "",
+      "n": "",
+      "name": ""
+   },
+   {
+      "dept": "",
+      "n": "",
+      "name": ""
+   },
+   {
+      "dept": "",
+      "n": "",
+      "name": ""
+   },
+   {
+      "dept": "",
+      "n": "",
+      "name": ""
+   },
+   {
+      "dept": "",
+      "n": "",
+      "name": ""
+   },
+   {
+      "dept": "",
+      "n": "",
+      "name": ""
+   },
+   {
+      "dept": "",
+      "n": "",
+      "name": ""
+   },
+   {
+      "dept": "",
+      "n": "",
+      "name": ""
+   },
+   {
+      "dept": "",
+      "n": "",
+      "name": ""
+   },
+   {
+      "dept": "",
+      "n": "",
+      "name": ""
+   },
+   {
+      "dept": "",
+      "n": "",
+      "name": ""
+   },
+   {
+      "dept": "",
+      "n": "",
+      "name": ""
+   },
+   {
+      "dept": "",
+      "n": "",
+      "name": ""
+   },
+   {
+      "dept": "",
+      "n": "",
+      "name": ""
+   },
+   {
+      "dept": "",
+      "n": "",
+      "name": ""
+   },
+   {
+      "dept": "",
+      "n": "",
+      "name": ""
+   },
+   {
+      "dept": "",
+      "n": "",
+      "name": ""
+   }
+]
+29-06-2018 11:59:19.1 [NOTICE] 1-1-ELINIANGORAN.svg
+29-06-2018 11:59:19.7 [NOTICE] 2-2-JOELKAZADI.svg
+29-06-2018 11:59:20.2 [NOTICE] 3-3-SIDHUNANI.svg
+29-06-2018 11:59:20.7 [NOTICE] 4-4-JOHNBEIMY.svg
+29-06-2018 11:59:21.2 [NOTICE] 5-5-VALENTINEKEVINS.svg
+29-06-2018 11:59:21.7 [NOTICE] 6-6-Ashakumari Gupta.svg
+29-06-2018 11:59:22.0 [DEBUG] stderr: ** Message: The preferences file C:\Users\xsmael\AppData\Roaming\inkscape\preferences.xml is not a valid XML document.
+** Message: Inkscape will run with default settings, and new settings will not be saved. 
+Entity: line 1246: parser error : Extra content at the end of the document
+          show="0"
+          ^
+WARNING: unknown type: rdf:rdf
+
+29-06-2018 11:59:22.2 [DEBUG] stderr: ** Message: The preferences file C:\Users\xsmael\AppData\Roaming\inkscape\preferences.xml is not a valid XML document.
+** Message: Inkscape will run with default settings, and new settings will not be saved. 
+Entity: line 1246: parser error : Extra content at the end of the document
+          show="0"
+          ^
+WARNING: unknown type: rdf:rdf
+
+29-06-2018 11:59:22.2 [NOTICE] 7-7-MalwaChibango.svg
+29-06-2018 11:59:22.3 [DEBUG] stderr: ** Message: The preferences file C:\Users\xsmael\AppData\Roaming\inkscape\preferences.xml is not a valid XML document.
+** Message: Inkscape will run with default settings, and new settings will not be saved. 
+Entity: line 1246: parser error : Extra content at the end of the document
+          show="0"
+          ^
+WARNING: unknown type: rdf:rdf
+
+29-06-2018 11:59:22.3 [DEBUG] stderr: ** Message: The preferences file C:\Users\xsmael\AppData\Roaming\inkscape\preferences.xml is not a valid XML document.
+** Message: Inkscape will run with default settings, and new settings will not be saved. 
+Entity: line 1246: parser error : Extra content at the end of the document
+          show="0"
+          ^
+WARNING: unknown type: rdf:rdf
+
+29-06-2018 11:59:22.6 [DEBUG] stderr: ** Message: The preferences file C:\Users\xsmael\AppData\Roaming\inkscape\preferences.xml is not a valid XML document.
+** Message: Inkscape will run with default settings, and new settings will not be saved. 
+Entity: line 1246: parser error : Extra content at the end of the document
+          show="0"
+          ^
+WARNING: unknown type: rdf:rdf
+
+29-06-2018 11:59:22.8 [NOTICE] 8-8-AlexTshilumba.svg
+29-06-2018 11:59:23.3 [NOTICE] 9-9-Sarah.svg
+29-06-2018 11:59:23.4 [DEBUG] stderr: ** Message: The preferences file C:\Users\xsmael\AppData\Roaming\inkscape\preferences.xml is not a valid XML document.
+** Message: Inkscape will run with default settings, and new settings will not be saved. 
+Entity: line 1246: parser error : Extra content at the end of the document
+          show="0"
+          ^
+WARNING: unknown type: rdf:rdf
+
+29-06-2018 11:59:23.8 [NOTICE] 10-10-AnnethMILLEY.svg
+29-06-2018 11:59:24.1 [DEBUG] stderr: ** Message: The preferences file C:\Users\xsmael\AppData\Roaming\inkscape\preferences.xml is not a valid XML document.
+** Message: Inkscape will run with default settings, and new settings will not be saved. 
+Entity: line 1246: parser error : Extra content at the end of the document
+          show="0"
+          ^
+WARNING: unknown type: rdf:rdf
+
+29-06-2018 11:59:24.3 [NOTICE] 11-11-NaomiSackey.svg
+29-06-2018 11:59:24.5 [DEBUG] stderr: ** Message: The preferences file C:\Users\xsmael\AppData\Roaming\inkscape\preferences.xml is not a valid XML document.
+** Message: Inkscape will run with default settings, and new settings will not be saved. 
+Entity: line 1246: parser error : Extra content at the end of the document
+          show="0"
+          ^
+WARNING: unknown type: rdf:rdf
+
+29-06-2018 11:59:24.8 [NOTICE] 12-12-JOSEPHNGALA.svg
+29-06-2018 11:59:25.0 [DEBUG] stderr: ** Message: The preferences file C:\Users\xsmael\AppData\Roaming\inkscape\preferences.xml is not a valid XML document.
+** Message: Inkscape will run with default settings, and new settings will not be saved. 
+Entity: line 1246: parser error : Extra content at the end of the document
+          show="0"
+          ^
+WARNING: unknown type: rdf:rdf
+
+29-06-2018 11:59:25.3 [NOTICE] 13-13-WilfriedLorou.svg
+29-06-2018 11:59:25.6 [DEBUG] stderr: ** Message: The preferences file C:\Users\xsmael\AppData\Roaming\inkscape\preferences.xml is not a valid XML document.
+** Message: Inkscape will run with default settings, and new settings will not be saved. 
+Entity: line 1246: parser error : Extra content at the end of the document
+          show="0"
+          ^
+WARNING: unknown type: rdf:rdf
+
+29-06-2018 11:59:25.8 [NOTICE] 14-14-GHISLAINNSUMPI.svg
+29-06-2018 11:59:26.0 [DEBUG] stderr: ** Message: The preferences file C:\Users\xsmael\AppData\Roaming\inkscape\preferences.xml is not a valid XML document.
+** Message: Inkscape will run with default settings, and new settings will not be saved. 
+Entity: line 1246: parser error : Extra content at the end of the document
+          show="0"
+          ^
+WARNING: unknown type: rdf:rdf
+
+29-06-2018 11:59:26.3 [NOTICE] 15-15-MarcelLOKASSA.svg
+29-06-2018 11:59:26.5 [DEBUG] stderr: ** Message: The preferences file C:\Users\xsmael\AppData\Roaming\inkscape\preferences.xml is not a valid XML document.
+** Message: Inkscape will run with default settings, and new settings will not be saved. 
+Entity: line 1246: parser error : Extra content at the end of the document
+          show="0"
+          ^
+WARNING: unknown type: rdf:rdf
+
+29-06-2018 11:59:26.8 [NOTICE] 16-16-TresorTHIABA.svg
+29-06-2018 11:59:27.0 [DEBUG] stderr: ** Message: The preferences file C:\Users\xsmael\AppData\Roaming\inkscape\preferences.xml is not a valid XML document.
+** Message: Inkscape will run with default settings, and new settings will not be saved. 
+Entity: line 1246: parser error : Extra content at the end of the document
+          show="0"
+          ^
+WARNING: unknown type: rdf:rdf
+
+29-06-2018 11:59:27.3 [NOTICE] 17-17-JONATHANNYENGWA.svg
+29-06-2018 11:59:27.5 [DEBUG] stderr: ** Message: The preferences file C:\Users\xsmael\AppData\Roaming\inkscape\preferences.xml is not a valid XML document.
+** Message: Inkscape will run with default settings, and new settings will not be saved. 
+Entity: line 1246: parser error : Extra content at the end of the document
+          show="0"
+          ^
+WARNING: unknown type: rdf:rdf
+
+29-06-2018 11:59:27.8 [NOTICE] 18-18-GlodyTSHIMANGA.svg
+29-06-2018 11:59:28.0 [DEBUG] stderr: ** Message: The preferences file C:\Users\xsmael\AppData\Roaming\inkscape\preferences.xml is not a valid XML document.
+** Message: Inkscape will run with default settings, and new settings will not be saved. 
+Entity: line 1246: parser error : Extra content at the end of the document
+          show="0"
+          ^
+WARNING: unknown type: rdf:rdf
+
+29-06-2018 11:59:28.3 [NOTICE] 19-19-IsmaelOUEDRAOGO.svg
+29-06-2018 11:59:28.5 [DEBUG] stderr: ** Message: The preferences file C:\Users\xsmael\AppData\Roaming\inkscape\preferences.xml is not a valid XML document.
+** Message: Inkscape will run with default settings, and new settings will not be saved. 
+Entity: line 1246: parser error : Extra content at the end of the document
+          show="0"
+          ^
+WARNING: unknown type: rdf:rdf
+
+29-06-2018 11:59:28.8 [NOTICE] 20-20-CHANDANTHAKUR.svg
+29-06-2018 11:59:28.9 [DEBUG] stderr: ** Message: The preferences file C:\Users\xsmael\AppData\Roaming\inkscape\preferences.xml is not a valid XML document.
+** Message: Inkscape will run with default settings, and new settings will not be saved. 
+Entity: line 1246: parser error : Extra content at the end of the document
+          show="0"
+          ^
+WARNING: unknown type: rdf:rdf
+
+29-06-2018 11:59:29.4 [NOTICE] 21-21-AnikaMASSEY.svg
+29-06-2018 11:59:29.5 [DEBUG] stderr: ** Message: The preferences file C:\Users\xsmael\AppData\Roaming\inkscape\preferences.xml is not a valid XML document.
+** Message: Inkscape will run with default settings, and new settings will not be saved. 
+Entity: line 1246: parser error : Extra content at the end of the document
+          show="0"
+          ^
+WARNING: unknown type: rdf:rdf
+
+29-06-2018 11:59:29.9 [NOTICE] 22-22-SeritaISAAC.svg
+29-06-2018 11:59:30.0 [DEBUG] stderr: ** Message: The preferences file C:\Users\xsmael\AppData\Roaming\inkscape\preferences.xml is not a valid XML document.
+** Message: Inkscape will run with default settings, and new settings will not be saved. 
+Entity: line 1246: parser error : Extra content at the end of the document
+          show="0"
+          ^
+WARNING: unknown type: rdf:rdf
+
+29-06-2018 11:59:30.4 [NOTICE] 23-23-JerryOSSEYI.svg
+29-06-2018 11:59:30.6 [DEBUG] stderr: ** Message: The preferences file C:\Users\xsmael\AppData\Roaming\inkscape\preferences.xml is not a valid XML document.
+** Message: Inkscape will run with default settings, and new settings will not be saved. 
+Entity: line 1246: parser error : Extra content at the end of the document
+          show="0"
+          ^
+WARNING: unknown type: rdf:rdf
+
+29-06-2018 11:59:30.9 [NOTICE] 24-24-EudoxieYOHALI.svg
+29-06-2018 11:59:31.1 [DEBUG] stderr: ** Message: The preferences file C:\Users\xsmael\AppData\Roaming\inkscape\preferences.xml is not a valid XML document.
+** Message: Inkscape will run with default settings, and new settings will not be saved. 
+Entity: line 1246: parser error : Extra content at the end of the document
+          show="0"
+          ^
+WARNING: unknown type: rdf:rdf
+
+29-06-2018 11:59:31.5 [NOTICE] 25-25-AristoteBOFONDA.svg
+29-06-2018 11:59:31.6 [DEBUG] stderr: ** Message: The preferences file C:\Users\xsmael\AppData\Roaming\inkscape\preferences.xml is not a valid XML document.
+** Message: Inkscape will run with default settings, and new settings will not be saved. 
+Entity: line 1246: parser error : Extra content at the end of the document
+          show="0"
+          ^
+WARNING: unknown type: rdf:rdf
+
+29-06-2018 11:59:32.0 [NOTICE] 26-26-ChristelleNSENSELE.svg
+29-06-2018 11:59:32.1 [DEBUG] stderr: ** Message: The preferences file C:\Users\xsmael\AppData\Roaming\inkscape\preferences.xml is not a valid XML document.
+** Message: Inkscape will run with default settings, and new settings will not be saved. 
+Entity: line 1246: parser error : Extra content at the end of the document
+          show="0"
+          ^
+WARNING: unknown type: rdf:rdf
+
+29-06-2018 11:59:32.5 [NOTICE] 27-27-SarahMBUYI.svg
+29-06-2018 11:59:32.7 [DEBUG] stderr: ** Message: The preferences file C:\Users\xsmael\AppData\Roaming\inkscape\preferences.xml is not a valid XML document.
+** Message: Inkscape will run with default settings, and new settings will not be saved. 
+Entity: line 1246: parser error : Extra content at the end of the document
+          show="0"
+          ^
+WARNING: unknown type: rdf:rdf
+
+29-06-2018 11:59:33.0 [NOTICE] 28-28-SarahKUSI.svg
+29-06-2018 11:59:33.2 [DEBUG] stderr: ** Message: The preferences file C:\Users\xsmael\AppData\Roaming\inkscape\preferences.xml is not a valid XML document.
+** Message: Inkscape will run with default settings, and new settings will not be saved. 
+Entity: line 1246: parser error : Extra content at the end of the document
+          show="0"
+          ^
+WARNING: unknown type: rdf:rdf
+
+29-06-2018 11:59:33.5 [NOTICE] 29-29-JEANBEHIMY.svg
+29-06-2018 11:59:33.6 [DEBUG] stderr: ** Message: The preferences file C:\Users\xsmael\AppData\Roaming\inkscape\preferences.xml is not a valid XML document.
+** Message: Inkscape will run with default settings, and new settings will not be saved. 
+Entity: line 1246: parser error : Extra content at the end of the document
+          show="0"
+          ^
+WARNING: unknown type: rdf:rdf
+
+29-06-2018 11:59:34.0 [NOTICE] 30-30-DAVIDBOLOMO.svg
+29-06-2018 11:59:34.1 [DEBUG] stderr: ** Message: The preferences file C:\Users\xsmael\AppData\Roaming\inkscape\preferences.xml is not a valid XML document.
+** Message: Inkscape will run with default settings, and new settings will not be saved. 
+Entity: line 1246: parser error : Extra content at the end of the document
+          show="0"
+          ^
+WARNING: unknown type: rdf:rdf
+
+29-06-2018 11:59:34.5 [NOTICE] 31-31-AnnethMILLEY.svg
+29-06-2018 11:59:34.6 [DEBUG] stderr: ** Message: The preferences file C:\Users\xsmael\AppData\Roaming\inkscape\preferences.xml is not a valid XML document.
+** Message: Inkscape will run with default settings, and new settings will not be saved. 
+Entity: line 1246: parser error : Extra content at the end of the document
+          show="0"
+          ^
+WARNING: unknown type: rdf:rdf
+
+29-06-2018 11:59:35.0 [NOTICE] 32-32-DeborahMUSANGU.svg
+29-06-2018 11:59:35.2 [DEBUG] stderr: ** Message: The preferences file C:\Users\xsmael\AppData\Roaming\inkscape\preferences.xml is not a valid XML document.
+** Message: Inkscape will run with default settings, and new settings will not be saved. 
+Entity: line 1246: parser error : Extra content at the end of the document
+          show="0"
+          ^
+WARNING: unknown type: rdf:rdf
+
+29-06-2018 11:59:35.5 [NOTICE] 33-33-Eden.svg
+29-06-2018 11:59:35.7 [DEBUG] stderr: ** Message: The preferences file C:\Users\xsmael\AppData\Roaming\inkscape\preferences.xml is not a valid XML document.
+** Message: Inkscape will run with default settings, and new settings will not be saved. 
+Entity: line 1246: parser error : Extra content at the end of the document
+          show="0"
+          ^
+WARNING: unknown type: rdf:rdf
+
+29-06-2018 11:59:36.0 [NOTICE] 34-34-DIDIERLUBOYA.svg
+29-06-2018 11:59:36.1 [DEBUG] stderr: ** Message: The preferences file C:\Users\xsmael\AppData\Roaming\inkscape\preferences.xml is not a valid XML document.
+** Message: Inkscape will run with default settings, and new settings will not be saved. 
+Entity: line 1246: parser error : Extra content at the end of the document
+          show="0"
+          ^
+WARNING: unknown type: rdf:rdf
+
+29-06-2018 11:59:36.5 [NOTICE] 35-35-Pr.BERTIN KENFACK.svg
+29-06-2018 11:59:36.6 [DEBUG] stderr: ** Message: The preferences file C:\Users\xsmael\AppData\Roaming\inkscape\preferences.xml is not a valid XML document.
+** Message: Inkscape will run with default settings, and new settings will not be saved. 
+Entity: line 1246: parser error : Extra content at the end of the document
+          show="0"
+          ^
+WARNING: unknown type: rdf:rdf
+
+29-06-2018 11:59:37.0 [NOTICE] 36-36-GRACECOLOMBE.svg
+29-06-2018 11:59:37.2 [DEBUG] stderr: ** Message: The preferences file C:\Users\xsmael\AppData\Roaming\inkscape\preferences.xml is not a valid XML document.
+** Message: Inkscape will run with default settings, and new settings will not be saved. 
+Entity: line 1246: parser error : Extra content at the end of the document
+          show="0"
+          ^
+WARNING: unknown type: rdf:rdf
+
+29-06-2018 11:59:37.5 [NOTICE] 37-37-HERVEGOBEU.svg
+29-06-2018 11:59:38.1 [NOTICE] 38-38-NehaKENFACK.svg
+29-06-2018 11:59:38.2 [DEBUG] stderr: ** Message: The preferences file C:\Users\xsmael\AppData\Roaming\inkscape\preferences.xml is not a valid XML document.
+** Message: Inkscape will run with default settings, and new settings will not be saved. 
+Entity: line 1246: parser error : Extra content at the end of the document
+          show="0"
+          ^
+WARNING: unknown type: rdf:rdf
+
+29-06-2018 11:59:38.7 [DEBUG] stderr: ** Message: The preferences file C:\Users\xsmael\AppData\Roaming\inkscape\preferences.xml is not a valid XML document.
+** Message: Inkscape will run with default settings, and new settings will not be saved. 
+Entity: line 1246: parser error : Extra content at the end of the document
+          show="0"
+          ^
+WARNING: unknown type: rdf:rdf
+
+29-06-2018 11:59:39.1 [DEBUG] stderr: ** Message: The preferences file C:\Users\xsmael\AppData\Roaming\inkscape\preferences.xml is not a valid XML document.
+** Message: Inkscape will run with default settings, and new settings will not be saved. 
+Entity: line 1246: parser error : Extra content at the end of the document
+          show="0"
+          ^
+WARNING: unknown type: rdf:rdf
+
+29-06-2018 12:00:06.7 [DEBUG] stderr: ** Message: The preferences file C:\Users\xsmael\AppData\Roaming\inkscape\preferences.xml is not a valid XML document.
+** Message: Inkscape will run with default settings, and new settings will not be saved. 
+
+** (inkscape.exe:3760): WARNING **: Can't open file: out/svg/6-6-Ashakumari (doesn't exist)
+
+** (inkscape.exe:3760): WARNING **: Can't open file: out/svg/6-6-Ashakumari (doesn't exist)
+
+** (inkscape.exe:3760): WARNING **: Specified document out/svg/6-6-Ashakumari cannot be opened (does not exist or not a valid SVG file)
+
+** (inkscape.exe:3760): WARNING **: Can't open file: Gupta.svg (doesn't exist)
+
+** (inkscape.exe:3760): WARNING **: Can't open file: Gupta.svg (doesn't exist)
+
+** (inkscape.exe:3760): WARNING **: Specified document Gupta.svg cannot be opened (does not exist or not a valid SVG file)
+
+** (inkscape.exe:3760): WARNING **: Can't open file: Gupta.png (doesn't exist)
+
+** (inkscape.exe:3760): WARNING **: Specified document Gupta.png cannot be opened (does not exist or not a valid SVG file)
+Entity: line 1246: parser error : Extra content at the end of the document
+          show="0"
+          ^
+
+29-06-2018 12:00:09.3 [DEBUG] stderr: ** Message: The preferences file C:\Users\xsmael\AppData\Roaming\inkscape\preferences.xml is not a valid XML document.
+** Message: Inkscape will run with default settings, and new settings will not be saved. 
+
+** (inkscape.exe:10552): WARNING **: Can't open file: out/svg/35-35-Pr.BERTIN (doesn't exist)
+
+** (inkscape.exe:10552): WARNING **: Can't open file: out/svg/35-35-Pr.BERTIN (doesn't exist)
+
+** (inkscape.exe:10552): WARNING **: Specified document out/svg/35-35-Pr.BERTIN cannot be opened (does not exist or not a valid SVG file)
+
+** (inkscape.exe:10552): WARNING **: Can't open file: KENFACK.svg (doesn't exist)
+
+** (inkscape.exe:10552): WARNING **: Can't open file: KENFACK.svg (doesn't exist)
+
+** (inkscape.exe:10552): WARNING **: Specified document KENFACK.svg cannot be opened (does not exist or not a valid SVG file)
+
+** (inkscape.exe:10552): WARNING **: Can't open file: KENFACK.png (doesn't exist)
+
+** (inkscape.exe:10552): WARNING **: Specified document KENFACK.png cannot be opened (does not exist or not a valid SVG file)
+Entity: line 1246: parser error : Extra content at the end of the document
+          show="0"
+          ^
+
+29-06-2018 12:03:29.2 [NOTICE] 
+[
+   {
+      "dept": "PROTOCOL",
+      "n": "1",
+      "name": "ELI NIANGORAN"
+   },
+   {
+      "dept": "PROTOCOL",
+      "n": "2",
+      "name": "JOEL KAZADI"
+   },
+   {
+      "dept": "PROTOCOL",
+      "n": "3",
+      "name": "SIDHU NANI"
+   },
+   {
+      "dept": "PROTOCOL",
+      "n": "4",
+      "name": "JOHN BEIMY"
+   },
+   {
+      "dept": "PROTOCOL",
+      "n": "5",
+      "name": "VALENTINE KEVINS"
+   },
+   {
+      "dept": "HEALTHCARE",
+      "n": "6",
+      "name": "Asha kumari Gupta"
+   },
+   {
+      "dept": "HEALTHCARE",
+      "n": "7",
+      "name": "Malwa Chibango"
+   },
+   {
+      "dept": "HEALTHCARE",
+      "n": "8",
+      "name": "Alex Tshilumba"
+   },
+   {
+      "dept": "HEALTHCARE",
+      "n": "9",
+      "name": "Sarah"
+   },
+   {
+      "dept": "HEALTHCARE",
+      "n": "10",
+      "name": "Anneth MILLEY"
+   },
+   {
+      "dept": "HEALTHCARE",
+      "n": "11",
+      "name": "Naomi Sackey"
+   },
+   {
+      "dept": "MEDIA",
+      "n": "12",
+      "name": "JOSEPH NGALA"
+   },
+   {
+      "dept": "MEDIA",
+      "n": "13",
+      "name": "Wilfried Lorou"
+   },
+   {
+      "dept": "MEDIA",
+      "n": "14",
+      "name": "GHISLAIN NSUMPI"
+   },
+   {
+      "dept": "MEDIA",
+      "n": "15",
+      "name": "Marcel LOKASSA"
+   },
+   {
+      "dept": "MEDIA",
+      "n": "16",
+      "name": "Tresor THIABA"
+   },
+   {
+      "dept": "MEDIA",
+      "n": "17",
+      "name": "JONATHAN NYENGWA"
+   },
+   {
+      "dept": "MEDIA",
+      "n": "18",
+      "name": "Glody TSHIMANGA"
+   },
+   {
+      "dept": "MEDIA",
+      "n": "19",
+      "name": "Ismael OUEDRAOGO"
+   },
+   {
+      "dept": "CHOIR",
+      "n": "20",
+      "name": "CHANDAN THAKUR"
+   },
+   {
+      "dept": "CHOIR",
+      "n": "21",
+      "name": "Anika MASSEY"
+   },
+   {
+      "dept": "CHOIR",
+      "n": "22",
+      "name": "Serita ISAAC"
+   },
+   {
+      "dept": "CHOIR",
+      "n": "23",
+      "name": "Jerry OSSEYI"
+   },
+   {
+      "dept": "CHOIR",
+      "n": "24",
+      "name": "Eudoxie YOHALI"
+   },
+   {
+      "dept": "CHOIR",
+      "n": "25",
+      "name": "Aristote BOFONDA"
+   },
+   {
+      "dept": "CHOIR",
+      "n": "26",
+      "name": "Christelle NSENSELE"
+   },
+   {
+      "dept": "CHOIR",
+      "n": "27",
+      "name": "Sarah MBUYI"
+   },
+   {
+      "dept": "CHOIR",
+      "n": "28",
+      "name": "Sarah KUSI"
+   },
+   {
+      "dept": "CHOIR",
+      "n": "29",
+      "name": "JEAN BEHIMY"
+   },
+   {
+      "dept": "CHOIR",
+      "n": "30",
+      "name": "DAVID BOLOMO"
+   },
+   {
+      "dept": "CHOIR",
+      "n": "31",
+      "name": "Anneth MILLEY"
+   },
+   {
+      "dept": "CHOIR",
+      "n": "32",
+      "name": "Deborah MUSANGU"
+   },
+   {
+      "dept": "CHOIR",
+      "n": "33",
+      "name": "Eden"
+   },
+   {
+      "dept": "CHOIR",
+      "n": "34",
+      "name": "DIDIER LUBOYA"
+   },
+   {
+      "dept": "ADMINISTRATION",
+      "n": "35",
+      "name": "Pr. BERTIN KENFACK"
+   },
+   {
+      "dept": "ADMINISTRATION",
+      "n": "36",
+      "name": "GRACE COLOMBE"
+   },
+   {
+      "dept": "ADMINISTRATION",
+      "n": "37",
+      "name": "HERVE GOBEU"
+   },
+   {
+      "dept": "ADMINISTRATION",
+      "n": "38",
+      "name": "Neha KENFACK"
+   },
+   {
+      "dept": "",
+      "n": "",
+      "name": ""
+   },
+   {
+      "dept": "",
+      "n": "",
+      "name": ""
+   },
+   {
+      "dept": "",
+      "n": "",
+      "name": ""
+   },
+   {
+      "dept": "",
+      "n": "",
+      "name": ""
+   },
+   {
+      "dept": "",
+      "n": "",
+      "name": ""
+   },
+   {
+      "dept": "",
+      "n": "",
+      "name": ""
+   },
+   {
+      "dept": "",
+      "n": "",
+      "name": ""
+   },
+   {
+      "dept": "",
+      "n": "",
+      "name": ""
+   },
+   {
+      "dept": "",
+      "n": "",
+      "name": ""
+   },
+   {
+      "dept": "",
+      "n": "",
+      "name": ""
+   },
+   {
+      "dept": "",
+      "n": "",
+      "name": ""
+   },
+   {
+      "dept": "",
+      "n": "",
+      "name": ""
+   },
+   {
+      "dept": "",
+      "n": "",
+      "name": ""
+   },
+   {
+      "dept": "",
+      "n": "",
+      "name": ""
+   },
+   {
+      "dept": "",
+      "n": "",
+      "name": ""
+   },
+   {
+      "dept": "",
+      "n": "",
+      "name": ""
+   },
+   {
+      "dept": "",
+      "n": "",
+      "name": ""
+   },
+   {
+      "dept": "",
+      "n": "",
+      "name": ""
+   },
+   {
+      "dept": "",
+      "n": "",
+      "name": ""
+   },
+   {
+      "dept": "",
+      "n": "",
+      "name": ""
+   },
+   {
+      "dept": "",
+      "n": "",
+      "name": ""
+   },
+   {
+      "dept": "",
+      "n": "",
+      "name": ""
+   },
+   {
+      "dept": "",
+      "n": "",
+      "name": ""
+   },
+   {
+      "dept": "",
+      "n": "",
+      "name": ""
+   },
+   {
+      "dept": "",
+      "n": "",
+      "name": ""
+   },
+   {
+      "dept": "",
+      "n": "",
+      "name": ""
+   },
+   {
+      "dept": "",
+      "n": "",
+      "name": ""
+   },
+   {
+      "dept": "",
+      "n": "",
+      "name": ""
+   },
+   {
+      "dept": "",
+      "n": "",
+      "name": ""
+   },
+   {
+      "dept": "",
+      "n": "",
+      "name": ""
+   },
+   {
+      "dept": "",
+      "n": "",
+      "name": ""
+   },
+   {
+      "dept": "",
+      "n": "",
+      "name": ""
+   },
+   {
+      "dept": "",
+      "n": "",
+      "name": ""
+   },
+   {
+      "dept": "",
+      "n": "",
+      "name": ""
+   },
+   {
+      "dept": "",
+      "n": "",
+      "name": ""
+   },
+   {
+      "dept": "",
+      "n": "",
+      "name": ""
+   },
+   {
+      "dept": "",
+      "n": "",
+      "name": ""
+   },
+   {
+      "dept": "",
+      "n": "",
+      "name": ""
+   },
+   {
+      "dept": "",
+      "n": "",
+      "name": ""
+   },
+   {
+      "dept": "",
+      "n": "",
+      "name": ""
+   },
+   {
+      "dept": "",
+      "n": "",
+      "name": ""
+   },
+   {
+      "dept": "",
+      "n": "",
+      "name": ""
+   },
+   {
+      "dept": "",
+      "n": "",
+      "name": ""
+   },
+   {
+      "dept": "",
+      "n": "",
+      "name": ""
+   },
+   {
+      "dept": "",
+      "n": "",
+      "name": ""
+   },
+   {
+      "dept": "",
+      "n": "",
+      "name": ""
+   },
+   {
+      "dept": "",
+      "n": "",
+      "name": ""
+   },
+   {
+      "dept": "",
+      "n": "",
+      "name": ""
+   },
+   {
+      "dept": "",
+      "n": "",
+      "name": ""
+   },
+   {
+      "dept": "",
+      "n": "",
+      "name": ""
+   }
+]
+29-06-2018 12:03:29.7 [NOTICE] 1-1-ELINIANGORAN.svg
+29-06-2018 12:03:30.3 [NOTICE] 2-2-JOELKAZADI.svg
+29-06-2018 12:03:30.8 [NOTICE] 3-3-SIDHUNANI.svg
+29-06-2018 12:03:30.9 [DEBUG] stderr: ** Message: The preferences file C:\Users\xsmael\AppData\Roaming\inkscape\preferences.xml is not a valid XML document.
+** Message: Inkscape will run with default settings, and new settings will not be saved. 
+Entity: line 1246: parser error : Extra content at the end of the document
+          show="0"
+          ^
+WARNING: unknown type: rdf:rdf
+
+29-06-2018 12:03:31.3 [NOTICE] 4-4-JOHNBEIMY.svg
+29-06-2018 12:03:31.4 [DEBUG] stderr: ** Message: The preferences file C:\Users\xsmael\AppData\Roaming\inkscape\preferences.xml is not a valid XML document.
+** Message: Inkscape will run with default settings, and new settings will not be saved. 
+Entity: line 1246: parser error : Extra content at the end of the document
+          show="0"
+          ^
+WARNING: unknown type: rdf:rdf
+
+29-06-2018 12:03:31.8 [NOTICE] 5-5-VALENTINEKEVINS.svg
+29-06-2018 12:03:32.0 [DEBUG] stderr: ** Message: The preferences file C:\Users\xsmael\AppData\Roaming\inkscape\preferences.xml is not a valid XML document.
+** Message: Inkscape will run with default settings, and new settings will not be saved. 
+Entity: line 1246: parser error : Extra content at the end of the document
+          show="0"
+          ^
+WARNING: unknown type: rdf:rdf
+
+29-06-2018 12:03:32.3 [NOTICE] 6-6-Ashakumari Gupta.svg
+29-06-2018 12:03:32.5 [DEBUG] stderr: ** Message: The preferences file C:\Users\xsmael\AppData\Roaming\inkscape\preferences.xml is not a valid XML document.
+** Message: Inkscape will run with default settings, and new settings will not be saved. 
+Entity: line 1246: parser error : Extra content at the end of the document
+          show="0"
+          ^
+WARNING: unknown type: rdf:rdf
+
+29-06-2018 12:03:32.8 [NOTICE] 7-7-MalwaChibango.svg
+29-06-2018 12:03:33.0 [DEBUG] stderr: ** Message: The preferences file C:\Users\xsmael\AppData\Roaming\inkscape\preferences.xml is not a valid XML document.
+** Message: Inkscape will run with default settings, and new settings will not be saved. 
+Entity: line 1246: parser error : Extra content at the end of the document
+          show="0"
+          ^
+WARNING: unknown type: rdf:rdf
+
+29-06-2018 12:03:33.3 [NOTICE] 8-8-AlexTshilumba.svg
+29-06-2018 12:03:33.8 [NOTICE] 9-9-Sarah.svg
+29-06-2018 12:03:33.9 [DEBUG] stderr: ** Message: The preferences file C:\Users\xsmael\AppData\Roaming\inkscape\preferences.xml is not a valid XML document.
+** Message: Inkscape will run with default settings, and new settings will not be saved. 
+Entity: line 1246: parser error : Extra content at the end of the document
+          show="0"
+          ^
+WARNING: unknown type: rdf:rdf
+
+29-06-2018 12:03:34.3 [NOTICE] 10-10-AnnethMILLEY.svg
+29-06-2018 12:03:34.4 [DEBUG] stderr: ** Message: The preferences file C:\Users\xsmael\AppData\Roaming\inkscape\preferences.xml is not a valid XML document.
+** Message: Inkscape will run with default settings, and new settings will not be saved. 
+Entity: line 1246: parser error : Extra content at the end of the document
+          show="0"
+          ^
+WARNING: unknown type: rdf:rdf
+
+29-06-2018 12:03:34.8 [NOTICE] 11-11-NaomiSackey.svg
+29-06-2018 12:03:34.9 [DEBUG] stderr: ** Message: The preferences file C:\Users\xsmael\AppData\Roaming\inkscape\preferences.xml is not a valid XML document.
+** Message: Inkscape will run with default settings, and new settings will not be saved. 
+Entity: line 1246: parser error : Extra content at the end of the document
+          show="0"
+          ^
+WARNING: unknown type: rdf:rdf
+
+29-06-2018 12:03:35.3 [NOTICE] 12-12-JOSEPHNGALA.svg
+29-06-2018 12:03:35.4 [DEBUG] stderr: ** Message: The preferences file C:\Users\xsmael\AppData\Roaming\inkscape\preferences.xml is not a valid XML document.
+** Message: Inkscape will run with default settings, and new settings will not be saved. 
+Entity: line 1246: parser error : Extra content at the end of the document
+          show="0"
+          ^
+WARNING: unknown type: rdf:rdf
+
+29-06-2018 12:03:35.9 [NOTICE] 13-13-WilfriedLorou.svg
+29-06-2018 12:03:35.9 [DEBUG] stderr: ** Message: The preferences file C:\Users\xsmael\AppData\Roaming\inkscape\preferences.xml is not a valid XML document.
+** Message: Inkscape will run with default settings, and new settings will not be saved. 
+Entity: line 1246: parser error : Extra content at the end of the document
+          show="0"
+          ^
+WARNING: unknown type: rdf:rdf
+
+29-06-2018 12:03:36.4 [NOTICE] 14-14-GHISLAINNSUMPI.svg
+29-06-2018 12:03:36.4 [DEBUG] stderr: ** Message: The preferences file C:\Users\xsmael\AppData\Roaming\inkscape\preferences.xml is not a valid XML document.
+** Message: Inkscape will run with default settings, and new settings will not be saved. 
+Entity: line 1246: parser error : Extra content at the end of the document
+          show="0"
+          ^
+WARNING: unknown type: rdf:rdf
+
+29-06-2018 12:03:36.9 [NOTICE] 15-15-MarcelLOKASSA.svg
+29-06-2018 12:03:37.0 [DEBUG] stderr: ** Message: The preferences file C:\Users\xsmael\AppData\Roaming\inkscape\preferences.xml is not a valid XML document.
+** Message: Inkscape will run with default settings, and new settings will not be saved. 
+Entity: line 1246: parser error : Extra content at the end of the document
+          show="0"
+          ^
+WARNING: unknown type: rdf:rdf
+
+29-06-2018 12:03:37.4 [NOTICE] 16-16-TresorTHIABA.svg
+29-06-2018 12:03:37.4 [DEBUG] stderr: ** Message: The preferences file C:\Users\xsmael\AppData\Roaming\inkscape\preferences.xml is not a valid XML document.
+** Message: Inkscape will run with default settings, and new settings will not be saved. 
+Entity: line 1246: parser error : Extra content at the end of the document
+          show="0"
+          ^
+WARNING: unknown type: rdf:rdf
+
+29-06-2018 12:03:37.9 [NOTICE] 17-17-JONATHANNYENGWA.svg
+29-06-2018 12:03:37.9 [DEBUG] stderr: ** Message: The preferences file C:\Users\xsmael\AppData\Roaming\inkscape\preferences.xml is not a valid XML document.
+** Message: Inkscape will run with default settings, and new settings will not be saved. 
+Entity: line 1246: parser error : Extra content at the end of the document
+          show="0"
+          ^
+WARNING: unknown type: rdf:rdf
+
+29-06-2018 12:03:38.4 [NOTICE] 18-18-GlodyTSHIMANGA.svg
+29-06-2018 12:03:38.5 [DEBUG] stderr: ** Message: The preferences file C:\Users\xsmael\AppData\Roaming\inkscape\preferences.xml is not a valid XML document.
+** Message: Inkscape will run with default settings, and new settings will not be saved. 
+Entity: line 1246: parser error : Extra content at the end of the document
+          show="0"
+          ^
+WARNING: unknown type: rdf:rdf
+
+29-06-2018 12:03:38.9 [NOTICE] 19-19-IsmaelOUEDRAOGO.svg
+29-06-2018 12:03:39.0 [DEBUG] stderr: ** Message: The preferences file C:\Users\xsmael\AppData\Roaming\inkscape\preferences.xml is not a valid XML document.
+** Message: Inkscape will run with default settings, and new settings will not be saved. 
+Entity: line 1246: parser error : Extra content at the end of the document
+          show="0"
+          ^
+WARNING: unknown type: rdf:rdf
+
+29-06-2018 12:03:39.4 [NOTICE] 20-20-CHANDANTHAKUR.svg
+29-06-2018 12:03:39.6 [DEBUG] stderr: ** Message: The preferences file C:\Users\xsmael\AppData\Roaming\inkscape\preferences.xml is not a valid XML document.
+** Message: Inkscape will run with default settings, and new settings will not be saved. 
+Entity: line 1246: parser error : Extra content at the end of the document
+          show="0"
+          ^
+WARNING: unknown type: rdf:rdf
+
+29-06-2018 12:03:39.9 [NOTICE] 21-21-AnikaMASSEY.svg
+29-06-2018 12:03:40.0 [DEBUG] stderr: ** Message: The preferences file C:\Users\xsmael\AppData\Roaming\inkscape\preferences.xml is not a valid XML document.
+** Message: Inkscape will run with default settings, and new settings will not be saved. 
+Entity: line 1246: parser error : Extra content at the end of the document
+          show="0"
+          ^
+WARNING: unknown type: rdf:rdf
+
+29-06-2018 12:03:40.4 [NOTICE] 22-22-SeritaISAAC.svg
+29-06-2018 12:03:40.5 [DEBUG] stderr: ** Message: The preferences file C:\Users\xsmael\AppData\Roaming\inkscape\preferences.xml is not a valid XML document.
+** Message: Inkscape will run with default settings, and new settings will not be saved. 
+Entity: line 1246: parser error : Extra content at the end of the document
+          show="0"
+          ^
+WARNING: unknown type: rdf:rdf
+
+29-06-2018 12:03:40.9 [NOTICE] 23-23-JerryOSSEYI.svg
+29-06-2018 12:03:41.1 [DEBUG] stderr: ** Message: The preferences file C:\Users\xsmael\AppData\Roaming\inkscape\preferences.xml is not a valid XML document.
+** Message: Inkscape will run with default settings, and new settings will not be saved. 
+Entity: line 1246: parser error : Extra content at the end of the document
+          show="0"
+          ^
+WARNING: unknown type: rdf:rdf
+
+29-06-2018 12:03:41.5 [NOTICE] 24-24-EudoxieYOHALI.svg
+29-06-2018 12:03:41.5 [DEBUG] stderr: ** Message: The preferences file C:\Users\xsmael\AppData\Roaming\inkscape\preferences.xml is not a valid XML document.
+** Message: Inkscape will run with default settings, and new settings will not be saved. 
+Entity: line 1246: parser error : Extra content at the end of the document
+          show="0"
+          ^
+WARNING: unknown type: rdf:rdf
+
+29-06-2018 12:03:42.0 [NOTICE] 25-25-AristoteBOFONDA.svg
+29-06-2018 12:03:42.0 [DEBUG] stderr: ** Message: The preferences file C:\Users\xsmael\AppData\Roaming\inkscape\preferences.xml is not a valid XML document.
+** Message: Inkscape will run with default settings, and new settings will not be saved. 
+Entity: line 1246: parser error : Extra content at the end of the document
+          show="0"
+          ^
+WARNING: unknown type: rdf:rdf
+
+29-06-2018 12:03:42.5 [NOTICE] 26-26-ChristelleNSENSELE.svg
+29-06-2018 12:03:42.5 [DEBUG] stderr: ** Message: The preferences file C:\Users\xsmael\AppData\Roaming\inkscape\preferences.xml is not a valid XML document.
+** Message: Inkscape will run with default settings, and new settings will not be saved. 
+Entity: line 1246: parser error : Extra content at the end of the document
+          show="0"
+          ^
+WARNING: unknown type: rdf:rdf
+
+29-06-2018 12:03:43.0 [NOTICE] 27-27-SarahMBUYI.svg
+29-06-2018 12:03:43.0 [DEBUG] stderr: ** Message: The preferences file C:\Users\xsmael\AppData\Roaming\inkscape\preferences.xml is not a valid XML document.
+** Message: Inkscape will run with default settings, and new settings will not be saved. 
+Entity: line 1246: parser error : Extra content at the end of the document
+          show="0"
+          ^
+WARNING: unknown type: rdf:rdf
+
+29-06-2018 12:03:43.5 [NOTICE] 28-28-SarahKUSI.svg
+29-06-2018 12:03:43.6 [DEBUG] stderr: ** Message: The preferences file C:\Users\xsmael\AppData\Roaming\inkscape\preferences.xml is not a valid XML document.
+** Message: Inkscape will run with default settings, and new settings will not be saved. 
+Entity: line 1246: parser error : Extra content at the end of the document
+          show="0"
+          ^
+WARNING: unknown type: rdf:rdf
+
+29-06-2018 12:03:44.0 [NOTICE] 29-29-JEANBEHIMY.svg
+29-06-2018 12:03:44.0 [DEBUG] stderr: ** Message: The preferences file C:\Users\xsmael\AppData\Roaming\inkscape\preferences.xml is not a valid XML document.
+** Message: Inkscape will run with default settings, and new settings will not be saved. 
+Entity: line 1246: parser error : Extra content at the end of the document
+          show="0"
+          ^
+WARNING: unknown type: rdf:rdf
+
+29-06-2018 12:03:44.5 [NOTICE] 30-30-DAVIDBOLOMO.svg
+29-06-2018 12:03:44.6 [DEBUG] stderr: ** Message: The preferences file C:\Users\xsmael\AppData\Roaming\inkscape\preferences.xml is not a valid XML document.
+** Message: Inkscape will run with default settings, and new settings will not be saved. 
+Entity: line 1246: parser error : Extra content at the end of the document
+          show="0"
+          ^
+WARNING: unknown type: rdf:rdf
+
+29-06-2018 12:03:45.0 [NOTICE] 31-31-AnnethMILLEY.svg
+29-06-2018 12:03:45.0 [DEBUG] stderr: ** Message: The preferences file C:\Users\xsmael\AppData\Roaming\inkscape\preferences.xml is not a valid XML document.
+** Message: Inkscape will run with default settings, and new settings will not be saved. 
+Entity: line 1246: parser error : Extra content at the end of the document
+          show="0"
+          ^
+WARNING: unknown type: rdf:rdf
+
+29-06-2018 12:03:45.5 [NOTICE] 32-32-DeborahMUSANGU.svg
+29-06-2018 12:03:45.6 [DEBUG] stderr: ** Message: The preferences file C:\Users\xsmael\AppData\Roaming\inkscape\preferences.xml is not a valid XML document.
+** Message: Inkscape will run with default settings, and new settings will not be saved. 
+Entity: line 1246: parser error : Extra content at the end of the document
+          show="0"
+          ^
+WARNING: unknown type: rdf:rdf
+
+29-06-2018 12:03:46.0 [NOTICE] 33-33-Eden.svg
+29-06-2018 12:03:46.1 [DEBUG] stderr: ** Message: The preferences file C:\Users\xsmael\AppData\Roaming\inkscape\preferences.xml is not a valid XML document.
+** Message: Inkscape will run with default settings, and new settings will not be saved. 
+Entity: line 1246: parser error : Extra content at the end of the document
+          show="0"
+          ^
+WARNING: unknown type: rdf:rdf
+
+29-06-2018 12:03:46.5 [NOTICE] 34-34-DIDIERLUBOYA.svg
+29-06-2018 12:03:46.6 [DEBUG] stderr: ** Message: The preferences file C:\Users\xsmael\AppData\Roaming\inkscape\preferences.xml is not a valid XML document.
+** Message: Inkscape will run with default settings, and new settings will not be saved. 
+Entity: line 1246: parser error : Extra content at the end of the document
+          show="0"
+          ^
+WARNING: unknown type: rdf:rdf
+
+29-06-2018 12:03:47.0 [NOTICE] 35-35-Pr.BERTIN KENFACK.svg
+29-06-2018 12:03:47.1 [DEBUG] stderr: ** Message: The preferences file C:\Users\xsmael\AppData\Roaming\inkscape\preferences.xml is not a valid XML document.
+** Message: Inkscape will run with default settings, and new settings will not be saved. 
+Entity: line 1246: parser error : Extra content at the end of the document
+          show="0"
+          ^
+WARNING: unknown type: rdf:rdf
+
+29-06-2018 12:03:47.5 [NOTICE] 36-36-GRACECOLOMBE.svg
+29-06-2018 12:03:47.7 [DEBUG] stderr: ** Message: The preferences file C:\Users\xsmael\AppData\Roaming\inkscape\preferences.xml is not a valid XML document.
+** Message: Inkscape will run with default settings, and new settings will not be saved. 
+Entity: line 1246: parser error : Extra content at the end of the document
+          show="0"
+          ^
+WARNING: unknown type: rdf:rdf
+
+29-06-2018 12:03:48.0 [NOTICE] 37-37-HERVEGOBEU.svg
+29-06-2018 12:03:48.6 [NOTICE] 38-38-NehaKENFACK.svg
+29-06-2018 12:03:48.6 [DEBUG] stderr: ** Message: The preferences file C:\Users\xsmael\AppData\Roaming\inkscape\preferences.xml is not a valid XML document.
+** Message: Inkscape will run with default settings, and new settings will not be saved. 
+Entity: line 1246: parser error : Extra content at the end of the document
+          show="0"
+          ^
+WARNING: unknown type: rdf:rdf
+
+29-06-2018 12:03:49.1 [DEBUG] stderr: ** Message: The preferences file C:\Users\xsmael\AppData\Roaming\inkscape\preferences.xml is not a valid XML document.
+** Message: Inkscape will run with default settings, and new settings will not be saved. 
+Entity: line 1246: parser error : Extra content at the end of the document
+          show="0"
+          ^
+WARNING: unknown type: rdf:rdf
+
+29-06-2018 12:03:49.7 [DEBUG] stderr: ** Message: The preferences file C:\Users\xsmael\AppData\Roaming\inkscape\preferences.xml is not a valid XML document.
+** Message: Inkscape will run with default settings, and new settings will not be saved. 
+Entity: line 1246: parser error : Extra content at the end of the document
+          show="0"
+          ^
+WARNING: unknown type: rdf:rdf
+
+29-06-2018 12:04:13.8 [NOTICE] 
+[
+   {
+      "dept": "PROTOCOL",
+      "n": "1",
+      "name": "ELI NIANGORAN"
+   },
+   {
+      "dept": "PROTOCOL",
+      "n": "2",
+      "name": "JOEL KAZADI"
+   },
+   {
+      "dept": "PROTOCOL",
+      "n": "3",
+      "name": "SIDHU NANI"
+   },
+   {
+      "dept": "PROTOCOL",
+      "n": "4",
+      "name": "JOHN BEIMY"
+   },
+   {
+      "dept": "PROTOCOL",
+      "n": "5",
+      "name": "VALENTINE KEVINS"
+   },
+   {
+      "dept": "HEALTHCARE",
+      "n": "6",
+      "name": "Asha kumari Gupta"
+   },
+   {
+      "dept": "HEALTHCARE",
+      "n": "7",
+      "name": "Malwa Chibango"
+   },
+   {
+      "dept": "HEALTHCARE",
+      "n": "8",
+      "name": "Alex Tshilumba"
+   },
+   {
+      "dept": "HEALTHCARE",
+      "n": "9",
+      "name": "Sarah"
+   },
+   {
+      "dept": "HEALTHCARE",
+      "n": "10",
+      "name": "Anneth MILLEY"
+   },
+   {
+      "dept": "HEALTHCARE",
+      "n": "11",
+      "name": "Naomi Sackey"
+   },
+   {
+      "dept": "MEDIA",
+      "n": "12",
+      "name": "JOSEPH NGALA"
+   },
+   {
+      "dept": "MEDIA",
+      "n": "13",
+      "name": "Wilfried Lorou"
+   },
+   {
+      "dept": "MEDIA",
+      "n": "14",
+      "name": "GHISLAIN NSUMPI"
+   },
+   {
+      "dept": "MEDIA",
+      "n": "15",
+      "name": "Marcel LOKASSA"
+   },
+   {
+      "dept": "MEDIA",
+      "n": "16",
+      "name": "Tresor THIABA"
+   },
+   {
+      "dept": "MEDIA",
+      "n": "17",
+      "name": "JONATHAN NYENGWA"
+   },
+   {
+      "dept": "MEDIA",
+      "n": "18",
+      "name": "Glody TSHIMANGA"
+   },
+   {
+      "dept": "MEDIA",
+      "n": "19",
+      "name": "Ismael OUEDRAOGO"
+   },
+   {
+      "dept": "CHOIR",
+      "n": "20",
+      "name": "CHANDAN THAKUR"
+   },
+   {
+      "dept": "CHOIR",
+      "n": "21",
+      "name": "Anika MASSEY"
+   },
+   {
+      "dept": "CHOIR",
+      "n": "22",
+      "name": "Serita ISAAC"
+   },
+   {
+      "dept": "CHOIR",
+      "n": "23",
+      "name": "Jerry OSSEYI"
+   },
+   {
+      "dept": "CHOIR",
+      "n": "24",
+      "name": "Eudoxie YOHALI"
+   },
+   {
+      "dept": "CHOIR",
+      "n": "25",
+      "name": "Aristote BOFONDA"
+   },
+   {
+      "dept": "CHOIR",
+      "n": "26",
+      "name": "Christelle NSENSELE"
+   },
+   {
+      "dept": "CHOIR",
+      "n": "27",
+      "name": "Sarah MBUYI"
+   },
+   {
+      "dept": "CHOIR",
+      "n": "28",
+      "name": "Sarah KUSI"
+   },
+   {
+      "dept": "CHOIR",
+      "n": "29",
+      "name": "JEAN BEHIMY"
+   },
+   {
+      "dept": "CHOIR",
+      "n": "30",
+      "name": "DAVID BOLOMO"
+   },
+   {
+      "dept": "CHOIR",
+      "n": "31",
+      "name": "Anneth MILLEY"
+   },
+   {
+      "dept": "CHOIR",
+      "n": "32",
+      "name": "Deborah MUSANGU"
+   },
+   {
+      "dept": "CHOIR",
+      "n": "33",
+      "name": "Eden"
+   },
+   {
+      "dept": "CHOIR",
+      "n": "34",
+      "name": "DIDIER LUBOYA"
+   },
+   {
+      "dept": "ADMINISTRATION",
+      "n": "35",
+      "name": "Pr. BERTIN KENFACK"
+   },
+   {
+      "dept": "ADMINISTRATION",
+      "n": "36",
+      "name": "GRACE COLOMBE"
+   },
+   {
+      "dept": "ADMINISTRATION",
+      "n": "37",
+      "name": "HERVE GOBEU"
+   },
+   {
+      "dept": "ADMINISTRATION",
+      "n": "38",
+      "name": "Neha KENFACK"
+   },
+   {
+      "dept": "",
+      "n": "",
+      "name": ""
+   },
+   {
+      "dept": "",
+      "n": "",
+      "name": ""
+   },
+   {
+      "dept": "",
+      "n": "",
+      "name": ""
+   },
+   {
+      "dept": "",
+      "n": "",
+      "name": ""
+   },
+   {
+      "dept": "",
+      "n": "",
+      "name": ""
+   },
+   {
+      "dept": "",
+      "n": "",
+      "name": ""
+   },
+   {
+      "dept": "",
+      "n": "",
+      "name": ""
+   },
+   {
+      "dept": "",
+      "n": "",
+      "name": ""
+   },
+   {
+      "dept": "",
+      "n": "",
+      "name": ""
+   },
+   {
+      "dept": "",
+      "n": "",
+      "name": ""
+   },
+   {
+      "dept": "",
+      "n": "",
+      "name": ""
+   },
+   {
+      "dept": "",
+      "n": "",
+      "name": ""
+   },
+   {
+      "dept": "",
+      "n": "",
+      "name": ""
+   },
+   {
+      "dept": "",
+      "n": "",
+      "name": ""
+   },
+   {
+      "dept": "",
+      "n": "",
+      "name": ""
+   },
+   {
+      "dept": "",
+      "n": "",
+      "name": ""
+   },
+   {
+      "dept": "",
+      "n": "",
+      "name": ""
+   },
+   {
+      "dept": "",
+      "n": "",
+      "name": ""
+   },
+   {
+      "dept": "",
+      "n": "",
+      "name": ""
+   },
+   {
+      "dept": "",
+      "n": "",
+      "name": ""
+   },
+   {
+      "dept": "",
+      "n": "",
+      "name": ""
+   },
+   {
+      "dept": "",
+      "n": "",
+      "name": ""
+   },
+   {
+      "dept": "",
+      "n": "",
+      "name": ""
+   },
+   {
+      "dept": "",
+      "n": "",
+      "name": ""
+   },
+   {
+      "dept": "",
+      "n": "",
+      "name": ""
+   },
+   {
+      "dept": "",
+      "n": "",
+      "name": ""
+   },
+   {
+      "dept": "",
+      "n": "",
+      "name": ""
+   },
+   {
+      "dept": "",
+      "n": "",
+      "name": ""
+   },
+   {
+      "dept": "",
+      "n": "",
+      "name": ""
+   },
+   {
+      "dept": "",
+      "n": "",
+      "name": ""
+   },
+   {
+      "dept": "",
+      "n": "",
+      "name": ""
+   },
+   {
+      "dept": "",
+      "n": "",
+      "name": ""
+   },
+   {
+      "dept": "",
+      "n": "",
+      "name": ""
+   },
+   {
+      "dept": "",
+      "n": "",
+      "name": ""
+   },
+   {
+      "dept": "",
+      "n": "",
+      "name": ""
+   },
+   {
+      "dept": "",
+      "n": "",
+      "name": ""
+   },
+   {
+      "dept": "",
+      "n": "",
+      "name": ""
+   },
+   {
+      "dept": "",
+      "n": "",
+      "name": ""
+   },
+   {
+      "dept": "",
+      "n": "",
+      "name": ""
+   },
+   {
+      "dept": "",
+      "n": "",
+      "name": ""
+   },
+   {
+      "dept": "",
+      "n": "",
+      "name": ""
+   },
+   {
+      "dept": "",
+      "n": "",
+      "name": ""
+   },
+   {
+      "dept": "",
+      "n": "",
+      "name": ""
+   },
+   {
+      "dept": "",
+      "n": "",
+      "name": ""
+   },
+   {
+      "dept": "",
+      "n": "",
+      "name": ""
+   },
+   {
+      "dept": "",
+      "n": "",
+      "name": ""
+   },
+   {
+      "dept": "",
+      "n": "",
+      "name": ""
+   },
+   {
+      "dept": "",
+      "n": "",
+      "name": ""
+   },
+   {
+      "dept": "",
+      "n": "",
+      "name": ""
+   },
+   {
+      "dept": "",
+      "n": "",
+      "name": ""
+   }
+]
+29-06-2018 12:04:14.3 [NOTICE] 1-1-ELINIANGORAN.svg
+29-06-2018 12:04:14.9 [NOTICE] 2-2-JOELKAZADI.svg
+29-06-2018 12:04:15.4 [NOTICE] 3-3-SIDHUNANI.svg
+29-06-2018 12:04:15.5 [DEBUG] stderr: ** Message: The preferences file C:\Users\xsmael\AppData\Roaming\inkscape\preferences.xml is not a valid XML document.
+** Message: Inkscape will run with default settings, and new settings will not be saved. 
+Entity: line 1246: parser error : Extra content at the end of the document
+          show="0"
+          ^
+WARNING: unknown type: rdf:rdf
+
+29-06-2018 12:04:15.9 [NOTICE] 4-4-JOHNBEIMY.svg
+29-06-2018 12:04:16.1 [DEBUG] stderr: ** Message: The preferences file C:\Users\xsmael\AppData\Roaming\inkscape\preferences.xml is not a valid XML document.
+** Message: Inkscape will run with default settings, and new settings will not be saved. 
+Entity: line 1246: parser error : Extra content at the end of the document
+          show="0"
+          ^
+WARNING: unknown type: rdf:rdf
+
+29-06-2018 12:04:16.4 [DEBUG] stderr: ** Message: The preferences file C:\Users\xsmael\AppData\Roaming\inkscape\preferences.xml is not a valid XML document.
+** Message: Inkscape will run with default settings, and new settings will not be saved. 
+Entity: line 1246: parser error : Extra content at the end of the document
+          show="0"
+          ^
+WARNING: unknown type: rdf:rdf
+
+29-06-2018 12:04:16.4 [NOTICE] 5-5-VALENTINEKEVINS.svg
+29-06-2018 12:04:16.9 [NOTICE] 6-6-Ashakumari Gupta.svg
+29-06-2018 12:04:16.9 [DEBUG] stderr: ** Message: The preferences file C:\Users\xsmael\AppData\Roaming\inkscape\preferences.xml is not a valid XML document.
+** Message: Inkscape will run with default settings, and new settings will not be saved. 
+Entity: line 1246: parser error : Extra content at the end of the document
+          show="0"
+          ^
+WARNING: unknown type: rdf:rdf
+
+29-06-2018 12:04:17.4 [DEBUG] stderr: ** Message: The preferences file C:\Users\xsmael\AppData\Roaming\inkscape\preferences.xml is not a valid XML document.
+** Message: Inkscape will run with default settings, and new settings will not be saved. 
+Entity: line 1246: parser error : Extra content at the end of the document
+          show="0"
+          ^
+WARNING: unknown type: rdf:rdf
+
+29-06-2018 12:04:17.4 [NOTICE] 7-7-MalwaChibango.svg
+29-06-2018 12:04:17.9 [NOTICE] 8-8-AlexTshilumba.svg
+29-06-2018 12:04:18.4 [NOTICE] 9-9-Sarah.svg
+29-06-2018 12:04:18.9 [NOTICE] 10-10-AnnethMILLEY.svg
+29-06-2018 12:04:19.0 [DEBUG] stderr: ** Message: The preferences file C:\Users\xsmael\AppData\Roaming\inkscape\preferences.xml is not a valid XML document.
+** Message: Inkscape will run with default settings, and new settings will not be saved. 
+Entity: line 1246: parser error : Extra content at the end of the document
+          show="0"
+          ^
+WARNING: unknown type: rdf:rdf
+
+29-06-2018 12:04:19.3 [DEBUG] stderr: ** Message: The preferences file C:\Users\xsmael\AppData\Roaming\inkscape\preferences.xml is not a valid XML document.
+** Message: Inkscape will run with default settings, and new settings will not be saved. 
+Entity: line 1246: parser error : Extra content at the end of the document
+          show="0"
+          ^
+WARNING: unknown type: rdf:rdf
+
+29-06-2018 12:04:19.4 [NOTICE] 11-11-NaomiSackey.svg
+29-06-2018 12:04:19.5 [DEBUG] stderr: ** Message: The preferences file C:\Users\xsmael\AppData\Roaming\inkscape\preferences.xml is not a valid XML document.
+** Message: Inkscape will run with default settings, and new settings will not be saved. 
+Entity: line 1246: parser error : Extra content at the end of the document
+          show="0"
+          ^
+WARNING: unknown type: rdf:rdf
+
+29-06-2018 12:04:20.0 [NOTICE] 12-12-JOSEPHNGALA.svg
+29-06-2018 12:04:20.0 [DEBUG] stderr: ** Message: The preferences file C:\Users\xsmael\AppData\Roaming\inkscape\preferences.xml is not a valid XML document.
+** Message: Inkscape will run with default settings, and new settings will not be saved. 
+Entity: line 1246: parser error : Extra content at the end of the document
+          show="0"
+          ^
+WARNING: unknown type: rdf:rdf
+
+29-06-2018 12:04:20.5 [NOTICE] 13-13-WilfriedLorou.svg
+29-06-2018 12:04:20.6 [DEBUG] stderr: ** Message: The preferences file C:\Users\xsmael\AppData\Roaming\inkscape\preferences.xml is not a valid XML document.
+** Message: Inkscape will run with default settings, and new settings will not be saved. 
+Entity: line 1246: parser error : Extra content at the end of the document
+          show="0"
+          ^
+WARNING: unknown type: rdf:rdf
+
+29-06-2018 12:04:21.0 [NOTICE] 14-14-GHISLAINNSUMPI.svg
+29-06-2018 12:04:21.0 [DEBUG] stderr: ** Message: The preferences file C:\Users\xsmael\AppData\Roaming\inkscape\preferences.xml is not a valid XML document.
+** Message: Inkscape will run with default settings, and new settings will not be saved. 
+Entity: line 1246: parser error : Extra content at the end of the document
+          show="0"
+          ^
+WARNING: unknown type: rdf:rdf
+
+29-06-2018 12:04:21.5 [NOTICE] 15-15-MarcelLOKASSA.svg
+29-06-2018 12:04:21.5 [DEBUG] stderr: ** Message: The preferences file C:\Users\xsmael\AppData\Roaming\inkscape\preferences.xml is not a valid XML document.
+** Message: Inkscape will run with default settings, and new settings will not be saved. 
+Entity: line 1246: parser error : Extra content at the end of the document
+          show="0"
+          ^
+WARNING: unknown type: rdf:rdf
+
+29-06-2018 12:04:22.0 [NOTICE] 16-16-TresorTHIABA.svg
+29-06-2018 12:04:22.0 [DEBUG] stderr: ** Message: The preferences file C:\Users\xsmael\AppData\Roaming\inkscape\preferences.xml is not a valid XML document.
+** Message: Inkscape will run with default settings, and new settings will not be saved. 
+Entity: line 1246: parser error : Extra content at the end of the document
+          show="0"
+          ^
+WARNING: unknown type: rdf:rdf
+
+29-06-2018 12:04:22.5 [NOTICE] 17-17-JONATHANNYENGWA.svg
+29-06-2018 12:04:22.5 [DEBUG] stderr: ** Message: The preferences file C:\Users\xsmael\AppData\Roaming\inkscape\preferences.xml is not a valid XML document.
+** Message: Inkscape will run with default settings, and new settings will not be saved. 
+Entity: line 1246: parser error : Extra content at the end of the document
+          show="0"
+          ^
+WARNING: unknown type: rdf:rdf
+
+29-06-2018 12:04:23.0 [NOTICE] 18-18-GlodyTSHIMANGA.svg
+29-06-2018 12:04:23.0 [DEBUG] stderr: ** Message: The preferences file C:\Users\xsmael\AppData\Roaming\inkscape\preferences.xml is not a valid XML document.
+** Message: Inkscape will run with default settings, and new settings will not be saved. 
+Entity: line 1246: parser error : Extra content at the end of the document
+          show="0"
+          ^
+WARNING: unknown type: rdf:rdf
+
+29-06-2018 12:04:23.5 [DEBUG] stderr: ** Message: The preferences file C:\Users\xsmael\AppData\Roaming\inkscape\preferences.xml is not a valid XML document.
+** Message: Inkscape will run with default settings, and new settings will not be saved. 
+Entity: line 1246: parser error : Extra content at the end of the document
+          show="0"
+          ^
+WARNING: unknown type: rdf:rdf
+
+29-06-2018 12:04:23.5 [NOTICE] 19-19-IsmaelOUEDRAOGO.svg
+29-06-2018 12:04:24.0 [NOTICE] 20-20-CHANDANTHAKUR.svg
+29-06-2018 12:04:24.0 [DEBUG] stderr: ** Message: The preferences file C:\Users\xsmael\AppData\Roaming\inkscape\preferences.xml is not a valid XML document.
+** Message: Inkscape will run with default settings, and new settings will not be saved. 
+Entity: line 1246: parser error : Extra content at the end of the document
+          show="0"
+          ^
+WARNING: unknown type: rdf:rdf
+
+29-06-2018 12:04:24.5 [DEBUG] stderr: ** Message: The preferences file C:\Users\xsmael\AppData\Roaming\inkscape\preferences.xml is not a valid XML document.
+** Message: Inkscape will run with default settings, and new settings will not be saved. 
+Entity: line 1246: parser error : Extra content at the end of the document
+          show="0"
+          ^
+WARNING: unknown type: rdf:rdf
+
+29-06-2018 12:04:24.5 [NOTICE] 21-21-AnikaMASSEY.svg
+29-06-2018 12:04:25.0 [NOTICE] 22-22-SeritaISAAC.svg
+29-06-2018 12:04:25.2 [DEBUG] stderr: ** Message: The preferences file C:\Users\xsmael\AppData\Roaming\inkscape\preferences.xml is not a valid XML document.
+** Message: Inkscape will run with default settings, and new settings will not be saved. 
+Entity: line 1246: parser error : Extra content at the end of the document
+          show="0"
+          ^
+WARNING: unknown type: rdf:rdf
+
+29-06-2018 12:04:25.5 [NOTICE] 23-23-JerryOSSEYI.svg
+29-06-2018 12:04:25.7 [DEBUG] stderr: ** Message: The preferences file C:\Users\xsmael\AppData\Roaming\inkscape\preferences.xml is not a valid XML document.
+** Message: Inkscape will run with default settings, and new settings will not be saved. 
+Entity: line 1246: parser error : Extra content at the end of the document
+          show="0"
+          ^
+WARNING: unknown type: rdf:rdf
+
+29-06-2018 12:04:26.0 [NOTICE] 24-24-EudoxieYOHALI.svg
+29-06-2018 12:04:26.1 [DEBUG] stderr: ** Message: The preferences file C:\Users\xsmael\AppData\Roaming\inkscape\preferences.xml is not a valid XML document.
+** Message: Inkscape will run with default settings, and new settings will not be saved. 
+Entity: line 1246: parser error : Extra content at the end of the document
+          show="0"
+          ^
+WARNING: unknown type: rdf:rdf
+
+29-06-2018 12:04:26.5 [NOTICE] 25-25-AristoteBOFONDA.svg
+29-06-2018 12:04:26.7 [DEBUG] stderr: ** Message: The preferences file C:\Users\xsmael\AppData\Roaming\inkscape\preferences.xml is not a valid XML document.
+** Message: Inkscape will run with default settings, and new settings will not be saved. 
+Entity: line 1246: parser error : Extra content at the end of the document
+          show="0"
+          ^
+WARNING: unknown type: rdf:rdf
+
+29-06-2018 12:04:27.1 [NOTICE] 26-26-ChristelleNSENSELE.svg
+29-06-2018 12:04:27.1 [DEBUG] stderr: ** Message: The preferences file C:\Users\xsmael\AppData\Roaming\inkscape\preferences.xml is not a valid XML document.
+** Message: Inkscape will run with default settings, and new settings will not be saved. 
+Entity: line 1246: parser error : Extra content at the end of the document
+          show="0"
+          ^
+WARNING: unknown type: rdf:rdf
+
+29-06-2018 12:04:27.6 [NOTICE] 27-27-SarahMBUYI.svg
+29-06-2018 12:04:27.6 [DEBUG] stderr: ** Message: The preferences file C:\Users\xsmael\AppData\Roaming\inkscape\preferences.xml is not a valid XML document.
+** Message: Inkscape will run with default settings, and new settings will not be saved. 
+Entity: line 1246: parser error : Extra content at the end of the document
+          show="0"
+          ^
+WARNING: unknown type: rdf:rdf
+
+29-06-2018 12:04:28.1 [NOTICE] 28-28-SarahKUSI.svg
+29-06-2018 12:04:28.1 [DEBUG] stderr: ** Message: The preferences file C:\Users\xsmael\AppData\Roaming\inkscape\preferences.xml is not a valid XML document.
+** Message: Inkscape will run with default settings, and new settings will not be saved. 
+Entity: line 1246: parser error : Extra content at the end of the document
+          show="0"
+          ^
+WARNING: unknown type: rdf:rdf
+
+29-06-2018 12:04:28.6 [NOTICE] 29-29-JEANBEHIMY.svg
+29-06-2018 12:04:28.6 [DEBUG] stderr: ** Message: The preferences file C:\Users\xsmael\AppData\Roaming\inkscape\preferences.xml is not a valid XML document.
+** Message: Inkscape will run with default settings, and new settings will not be saved. 
+Entity: line 1246: parser error : Extra content at the end of the document
+          show="0"
+          ^
+WARNING: unknown type: rdf:rdf
+
+29-06-2018 12:04:29.1 [NOTICE] 30-30-DAVIDBOLOMO.svg
+29-06-2018 12:04:29.2 [DEBUG] stderr: ** Message: The preferences file C:\Users\xsmael\AppData\Roaming\inkscape\preferences.xml is not a valid XML document.
+** Message: Inkscape will run with default settings, and new settings will not be saved. 
+Entity: line 1246: parser error : Extra content at the end of the document
+          show="0"
+          ^
+WARNING: unknown type: rdf:rdf
+
+29-06-2018 12:04:29.6 [NOTICE] 31-31-AnnethMILLEY.svg
+29-06-2018 12:04:29.6 [DEBUG] stderr: ** Message: The preferences file C:\Users\xsmael\AppData\Roaming\inkscape\preferences.xml is not a valid XML document.
+** Message: Inkscape will run with default settings, and new settings will not be saved. 
+Entity: line 1246: parser error : Extra content at the end of the document
+          show="0"
+          ^
+WARNING: unknown type: rdf:rdf
+
+29-06-2018 12:04:30.1 [DEBUG] stderr: ** Message: The preferences file C:\Users\xsmael\AppData\Roaming\inkscape\preferences.xml is not a valid XML document.
+** Message: Inkscape will run with default settings, and new settings will not be saved. 
+Entity: line 1246: parser error : Extra content at the end of the document
+          show="0"
+          ^
+WARNING: unknown type: rdf:rdf
+
+29-06-2018 12:04:30.1 [NOTICE] 32-32-DeborahMUSANGU.svg
+29-06-2018 12:04:30.6 [NOTICE] 33-33-Eden.svg
+29-06-2018 12:04:30.7 [DEBUG] stderr: ** Message: The preferences file C:\Users\xsmael\AppData\Roaming\inkscape\preferences.xml is not a valid XML document.
+** Message: Inkscape will run with default settings, and new settings will not be saved. 
+Entity: line 1246: parser error : Extra content at the end of the document
+          show="0"
+          ^
+WARNING: unknown type: rdf:rdf
+
+29-06-2018 12:04:31.1 [NOTICE] 34-34-DIDIERLUBOYA.svg
+29-06-2018 12:04:31.2 [DEBUG] stderr: ** Message: The preferences file C:\Users\xsmael\AppData\Roaming\inkscape\preferences.xml is not a valid XML document.
+** Message: Inkscape will run with default settings, and new settings will not be saved. 
+Entity: line 1246: parser error : Extra content at the end of the document
+          show="0"
+          ^
+WARNING: unknown type: rdf:rdf
+
+29-06-2018 12:04:31.6 [NOTICE] 35-35-Pr.BERTIN KENFACK.svg
+29-06-2018 12:04:31.7 [DEBUG] stderr: ** Message: The preferences file C:\Users\xsmael\AppData\Roaming\inkscape\preferences.xml is not a valid XML document.
+** Message: Inkscape will run with default settings, and new settings will not be saved. 
+Entity: line 1246: parser error : Extra content at the end of the document
+          show="0"
+          ^
+WARNING: unknown type: rdf:rdf
+
+29-06-2018 12:04:32.1 [NOTICE] 36-36-GRACECOLOMBE.svg
+29-06-2018 12:04:32.2 [DEBUG] stderr: ** Message: The preferences file C:\Users\xsmael\AppData\Roaming\inkscape\preferences.xml is not a valid XML document.
+** Message: Inkscape will run with default settings, and new settings will not be saved. 
+Entity: line 1246: parser error : Extra content at the end of the document
+          show="0"
+          ^
+WARNING: unknown type: rdf:rdf
+
+29-06-2018 12:04:32.6 [NOTICE] 37-37-HERVEGOBEU.svg
+29-06-2018 12:04:33.1 [NOTICE] 38-38-NehaKENFACK.svg
+29-06-2018 12:04:33.2 [DEBUG] stderr: ** Message: The preferences file C:\Users\xsmael\AppData\Roaming\inkscape\preferences.xml is not a valid XML document.
+** Message: Inkscape will run with default settings, and new settings will not be saved. 
+Entity: line 1246: parser error : Extra content at the end of the document
+          show="0"
+          ^
+WARNING: unknown type: rdf:rdf
+
+29-06-2018 12:04:33.7 [DEBUG] stderr: ** Message: The preferences file C:\Users\xsmael\AppData\Roaming\inkscape\preferences.xml is not a valid XML document.
+** Message: Inkscape will run with default settings, and new settings will not be saved. 
+Entity: line 1246: parser error : Extra content at the end of the document
+          show="0"
+          ^
+WARNING: unknown type: rdf:rdf
+
+29-06-2018 12:04:34.2 [DEBUG] stderr: ** Message: The preferences file C:\Users\xsmael\AppData\Roaming\inkscape\preferences.xml is not a valid XML document.
+** Message: Inkscape will run with default settings, and new settings will not be saved. 
+Entity: line 1246: parser error : Extra content at the end of the document
+          show="0"
+          ^
+WARNING: unknown type: rdf:rdf
+
+29-06-2018 12:06:25.0 [NOTICE] 
+[
+   {
+      "dept": "PROTOCOL",
+      "n": "1",
+      "name": "ELI NIANGORAN"
+   },
+   {
+      "dept": "PROTOCOL",
+      "n": "2",
+      "name": "JOEL KAZADI"
+   },
+   {
+      "dept": "PROTOCOL",
+      "n": "3",
+      "name": "SIDHU NANI"
+   },
+   {
+      "dept": "PROTOCOL",
+      "n": "4",
+      "name": "JOHN BEIMY"
+   },
+   {
+      "dept": "PROTOCOL",
+      "n": "5",
+      "name": "VALENTINE KEVINS"
+   },
+   {
+      "dept": "HEALTHCARE",
+      "n": "6",
+      "name": "Asha kumari Gupta"
+   },
+   {
+      "dept": "HEALTHCARE",
+      "n": "7",
+      "name": "Malwa Chibango"
+   },
+   {
+      "dept": "HEALTHCARE",
+      "n": "8",
+      "name": "Alex Tshilumba"
+   },
+   {
+      "dept": "HEALTHCARE",
+      "n": "9",
+      "name": "Sarah"
+   },
+   {
+      "dept": "HEALTHCARE",
+      "n": "10",
+      "name": "Anneth MILLEY"
+   },
+   {
+      "dept": "HEALTHCARE",
+      "n": "11",
+      "name": "Naomi Sackey"
+   },
+   {
+      "dept": "MEDIA",
+      "n": "12",
+      "name": "JOSEPH NGALA"
+   },
+   {
+      "dept": "MEDIA",
+      "n": "13",
+      "name": "Wilfried Lorou"
+   },
+   {
+      "dept": "MEDIA",
+      "n": "14",
+      "name": "GHISLAIN NSUMPI"
+   },
+   {
+      "dept": "MEDIA",
+      "n": "15",
+      "name": "Marcel LOKASSA"
+   },
+   {
+      "dept": "MEDIA",
+      "n": "16",
+      "name": "Tresor THIABA"
+   },
+   {
+      "dept": "MEDIA",
+      "n": "17",
+      "name": "JONATHAN NYENGWA"
+   },
+   {
+      "dept": "MEDIA",
+      "n": "18",
+      "name": "Glody TSHIMANGA"
+   },
+   {
+      "dept": "MEDIA",
+      "n": "19",
+      "name": "Ismael OUEDRAOGO"
+   },
+   {
+      "dept": "CHOIR",
+      "n": "20",
+      "name": "CHANDAN THAKUR"
+   },
+   {
+      "dept": "CHOIR",
+      "n": "21",
+      "name": "Anika MASSEY"
+   },
+   {
+      "dept": "CHOIR",
+      "n": "22",
+      "name": "Serita ISAAC"
+   },
+   {
+      "dept": "CHOIR",
+      "n": "23",
+      "name": "Jerry OSSEYI"
+   },
+   {
+      "dept": "CHOIR",
+      "n": "24",
+      "name": "Eudoxie YOHALI"
+   },
+   {
+      "dept": "CHOIR",
+      "n": "25",
+      "name": "Aristote BOFONDA"
+   },
+   {
+      "dept": "CHOIR",
+      "n": "26",
+      "name": "Christelle NSENSELE"
+   },
+   {
+      "dept": "CHOIR",
+      "n": "27",
+      "name": "Sarah MBUYI"
+   },
+   {
+      "dept": "CHOIR",
+      "n": "28",
+      "name": "Sarah KUSI"
+   },
+   {
+      "dept": "CHOIR",
+      "n": "29",
+      "name": "JEAN BEHIMY"
+   },
+   {
+      "dept": "CHOIR",
+      "n": "30",
+      "name": "DAVID BOLOMO"
+   },
+   {
+      "dept": "CHOIR",
+      "n": "31",
+      "name": "Anneth MILLEY"
+   },
+   {
+      "dept": "CHOIR",
+      "n": "32",
+      "name": "Deborah MUSANGU"
+   },
+   {
+      "dept": "CHOIR",
+      "n": "33",
+      "name": "Eden"
+   },
+   {
+      "dept": "CHOIR",
+      "n": "34",
+      "name": "DIDIER LUBOYA"
+   },
+   {
+      "dept": "ADMINISTRATION",
+      "n": "35",
+      "name": "Pr. BERTIN KENFACK"
+   },
+   {
+      "dept": "ADMINISTRATION",
+      "n": "36",
+      "name": "GRACE COLOMBE"
+   },
+   {
+      "dept": "ADMINISTRATION",
+      "n": "37",
+      "name": "HERVE GOBEU"
+   },
+   {
+      "dept": "ADMINISTRATION",
+      "n": "38",
+      "name": "Neha KENFACK"
+   },
+   {
+      "dept": "",
+      "n": "",
+      "name": ""
+   },
+   {
+      "dept": "",
+      "n": "",
+      "name": ""
+   },
+   {
+      "dept": "",
+      "n": "",
+      "name": ""
+   },
+   {
+      "dept": "",
+      "n": "",
+      "name": ""
+   },
+   {
+      "dept": "",
+      "n": "",
+      "name": ""
+   },
+   {
+      "dept": "",
+      "n": "",
+      "name": ""
+   },
+   {
+      "dept": "",
+      "n": "",
+      "name": ""
+   },
+   {
+      "dept": "",
+      "n": "",
+      "name": ""
+   },
+   {
+      "dept": "",
+      "n": "",
+      "name": ""
+   },
+   {
+      "dept": "",
+      "n": "",
+      "name": ""
+   },
+   {
+      "dept": "",
+      "n": "",
+      "name": ""
+   },
+   {
+      "dept": "",
+      "n": "",
+      "name": ""
+   },
+   {
+      "dept": "",
+      "n": "",
+      "name": ""
+   },
+   {
+      "dept": "",
+      "n": "",
+      "name": ""
+   },
+   {
+      "dept": "",
+      "n": "",
+      "name": ""
+   },
+   {
+      "dept": "",
+      "n": "",
+      "name": ""
+   },
+   {
+      "dept": "",
+      "n": "",
+      "name": ""
+   },
+   {
+      "dept": "",
+      "n": "",
+      "name": ""
+   },
+   {
+      "dept": "",
+      "n": "",
+      "name": ""
+   },
+   {
+      "dept": "",
+      "n": "",
+      "name": ""
+   },
+   {
+      "dept": "",
+      "n": "",
+      "name": ""
+   },
+   {
+      "dept": "",
+      "n": "",
+      "name": ""
+   },
+   {
+      "dept": "",
+      "n": "",
+      "name": ""
+   },
+   {
+      "dept": "",
+      "n": "",
+      "name": ""
+   },
+   {
+      "dept": "",
+      "n": "",
+      "name": ""
+   },
+   {
+      "dept": "",
+      "n": "",
+      "name": ""
+   },
+   {
+      "dept": "",
+      "n": "",
+      "name": ""
+   },
+   {
+      "dept": "",
+      "n": "",
+      "name": ""
+   },
+   {
+      "dept": "",
+      "n": "",
+      "name": ""
+   },
+   {
+      "dept": "",
+      "n": "",
+      "name": ""
+   },
+   {
+      "dept": "",
+      "n": "",
+      "name": ""
+   },
+   {
+      "dept": "",
+      "n": "",
+      "name": ""
+   },
+   {
+      "dept": "",
+      "n": "",
+      "name": ""
+   },
+   {
+      "dept": "",
+      "n": "",
+      "name": ""
+   },
+   {
+      "dept": "",
+      "n": "",
+      "name": ""
+   },
+   {
+      "dept": "",
+      "n": "",
+      "name": ""
+   },
+   {
+      "dept": "",
+      "n": "",
+      "name": ""
+   },
+   {
+      "dept": "",
+      "n": "",
+      "name": ""
+   },
+   {
+      "dept": "",
+      "n": "",
+      "name": ""
+   },
+   {
+      "dept": "",
+      "n": "",
+      "name": ""
+   },
+   {
+      "dept": "",
+      "n": "",
+      "name": ""
+   },
+   {
+      "dept": "",
+      "n": "",
+      "name": ""
+   },
+   {
+      "dept": "",
+      "n": "",
+      "name": ""
+   },
+   {
+      "dept": "",
+      "n": "",
+      "name": ""
+   },
+   {
+      "dept": "",
+      "n": "",
+      "name": ""
+   },
+   {
+      "dept": "",
+      "n": "",
+      "name": ""
+   },
+   {
+      "dept": "",
+      "n": "",
+      "name": ""
+   },
+   {
+      "dept": "",
+      "n": "",
+      "name": ""
+   },
+   {
+      "dept": "",
+      "n": "",
+      "name": ""
+   },
+   {
+      "dept": "",
+      "n": "",
+      "name": ""
+   }
+]
+29-06-2018 12:06:25.5 [NOTICE] 1-1-ELINIANGORAN.svg
+29-06-2018 12:06:26.0 [NOTICE] 2-2-JOELKAZADI.svg
+29-06-2018 12:06:26.5 [NOTICE] 3-3-SIDHUNANI.svg
+29-06-2018 12:06:26.7 [DEBUG] stderr: ** Message: The preferences file C:\Users\xsmael\AppData\Roaming\inkscape\preferences.xml is not a valid XML document.
+** Message: Inkscape will run with default settings, and new settings will not be saved. 
+Entity: line 1246: parser error : Extra content at the end of the document
+          show="0"
+          ^
+WARNING: unknown type: rdf:rdf
+
+29-06-2018 12:06:27.0 [NOTICE] 4-4-JOHNBEIMY.svg
+29-06-2018 12:06:27.3 [DEBUG] stderr: ** Message: The preferences file C:\Users\xsmael\AppData\Roaming\inkscape\preferences.xml is not a valid XML document.
+** Message: Inkscape will run with default settings, and new settings will not be saved. 
+Entity: line 1246: parser error : Extra content at the end of the document
+          show="0"
+          ^
+WARNING: unknown type: rdf:rdf
+
+29-06-2018 12:06:27.5 [NOTICE] 5-5-VALENTINEKEVINS.svg
+29-06-2018 12:06:27.7 [DEBUG] stderr: ** Message: The preferences file C:\Users\xsmael\AppData\Roaming\inkscape\preferences.xml is not a valid XML document.
+** Message: Inkscape will run with default settings, and new settings will not be saved. 
+Entity: line 1246: parser error : Extra content at the end of the document
+          show="0"
+          ^
+WARNING: unknown type: rdf:rdf
+
+29-06-2018 12:06:28.0 [NOTICE] 6-6-Ashakumari Gupta.svg
+29-06-2018 12:06:28.2 [DEBUG] stderr: ** Message: The preferences file C:\Users\xsmael\AppData\Roaming\inkscape\preferences.xml is not a valid XML document.
+** Message: Inkscape will run with default settings, and new settings will not be saved. 
+Entity: line 1246: parser error : Extra content at the end of the document
+          show="0"
+          ^
+WARNING: unknown type: rdf:rdf
+
+29-06-2018 12:06:28.6 [NOTICE] 7-7-MalwaChibango.svg
+29-06-2018 12:06:28.6 [DEBUG] stderr: ** Message: The preferences file C:\Users\xsmael\AppData\Roaming\inkscape\preferences.xml is not a valid XML document.
+** Message: Inkscape will run with default settings, and new settings will not be saved. 
+Entity: line 1246: parser error : Extra content at the end of the document
+          show="0"
+          ^
+WARNING: unknown type: rdf:rdf
+
+29-06-2018 12:06:29.1 [NOTICE] 8-8-AlexTshilumba.svg
+29-06-2018 12:06:29.6 [NOTICE] 9-9-Sarah.svg
+29-06-2018 12:06:29.7 [DEBUG] stderr: ** Message: The preferences file C:\Users\xsmael\AppData\Roaming\inkscape\preferences.xml is not a valid XML document.
+** Message: Inkscape will run with default settings, and new settings will not be saved. 
+Entity: line 1246: parser error : Extra content at the end of the document
+          show="0"
+          ^
+WARNING: unknown type: rdf:rdf
+
+29-06-2018 12:06:30.1 [NOTICE] 10-10-AnnethMILLEY.svg
+29-06-2018 12:06:30.1 [DEBUG] stderr: ** Message: The preferences file C:\Users\xsmael\AppData\Roaming\inkscape\preferences.xml is not a valid XML document.
+** Message: Inkscape will run with default settings, and new settings will not be saved. 
+Entity: line 1246: parser error : Extra content at the end of the document
+          show="0"
+          ^
+WARNING: unknown type: rdf:rdf
+
+29-06-2018 12:06:30.6 [NOTICE] 11-11-NaomiSackey.svg
+29-06-2018 12:06:30.7 [DEBUG] stderr: ** Message: The preferences file C:\Users\xsmael\AppData\Roaming\inkscape\preferences.xml is not a valid XML document.
+** Message: Inkscape will run with default settings, and new settings will not be saved. 
+Entity: line 1246: parser error : Extra content at the end of the document
+          show="0"
+          ^
+WARNING: unknown type: rdf:rdf
+
+29-06-2018 12:06:31.1 [NOTICE] 12-12-JOSEPHNGALA.svg
+29-06-2018 12:06:31.1 [DEBUG] stderr: ** Message: The preferences file C:\Users\xsmael\AppData\Roaming\inkscape\preferences.xml is not a valid XML document.
+** Message: Inkscape will run with default settings, and new settings will not be saved. 
+Entity: line 1246: parser error : Extra content at the end of the document
+          show="0"
+          ^
+WARNING: unknown type: rdf:rdf
+
+29-06-2018 12:06:31.6 [NOTICE] 13-13-WilfriedLorou.svg
+29-06-2018 12:06:31.7 [DEBUG] stderr: ** Message: The preferences file C:\Users\xsmael\AppData\Roaming\inkscape\preferences.xml is not a valid XML document.
+** Message: Inkscape will run with default settings, and new settings will not be saved. 
+Entity: line 1246: parser error : Extra content at the end of the document
+          show="0"
+          ^
+WARNING: unknown type: rdf:rdf
+
+29-06-2018 12:06:32.1 [NOTICE] 14-14-GHISLAINNSUMPI.svg
+29-06-2018 12:06:32.2 [DEBUG] stderr: ** Message: The preferences file C:\Users\xsmael\AppData\Roaming\inkscape\preferences.xml is not a valid XML document.
+** Message: Inkscape will run with default settings, and new settings will not be saved. 
+Entity: line 1246: parser error : Extra content at the end of the document
+          show="0"
+          ^
+WARNING: unknown type: rdf:rdf
+
+29-06-2018 12:06:32.6 [DEBUG] stderr: ** Message: The preferences file C:\Users\xsmael\AppData\Roaming\inkscape\preferences.xml is not a valid XML document.
+** Message: Inkscape will run with default settings, and new settings will not be saved. 
+Entity: line 1246: parser error : Extra content at the end of the document
+          show="0"
+          ^
+WARNING: unknown type: rdf:rdf
+
+29-06-2018 12:06:32.6 [NOTICE] 15-15-MarcelLOKASSA.svg
+29-06-2018 12:06:33.1 [NOTICE] 16-16-TresorTHIABA.svg
+29-06-2018 12:06:33.1 [DEBUG] stderr: ** Message: The preferences file C:\Users\xsmael\AppData\Roaming\inkscape\preferences.xml is not a valid XML document.
+** Message: Inkscape will run with default settings, and new settings will not be saved. 
+Entity: line 1246: parser error : Extra content at the end of the document
+          show="0"
+          ^
+WARNING: unknown type: rdf:rdf
+
+29-06-2018 12:06:33.6 [NOTICE] 17-17-JONATHANNYENGWA.svg
+29-06-2018 12:06:33.7 [DEBUG] stderr: ** Message: The preferences file C:\Users\xsmael\AppData\Roaming\inkscape\preferences.xml is not a valid XML document.
+** Message: Inkscape will run with default settings, and new settings will not be saved. 
+Entity: line 1246: parser error : Extra content at the end of the document
+          show="0"
+          ^
+WARNING: unknown type: rdf:rdf
+
+29-06-2018 12:06:34.1 [NOTICE] 18-18-GlodyTSHIMANGA.svg
+29-06-2018 12:06:34.2 [DEBUG] stderr: ** Message: The preferences file C:\Users\xsmael\AppData\Roaming\inkscape\preferences.xml is not a valid XML document.
+** Message: Inkscape will run with default settings, and new settings will not be saved. 
+Entity: line 1246: parser error : Extra content at the end of the document
+          show="0"
+          ^
+WARNING: unknown type: rdf:rdf
+
+29-06-2018 12:06:34.7 [NOTICE] 19-19-IsmaelOUEDRAOGO.svg
+29-06-2018 12:06:34.7 [DEBUG] stderr: ** Message: The preferences file C:\Users\xsmael\AppData\Roaming\inkscape\preferences.xml is not a valid XML document.
+** Message: Inkscape will run with default settings, and new settings will not be saved. 
+Entity: line 1246: parser error : Extra content at the end of the document
+          show="0"
+          ^
+WARNING: unknown type: rdf:rdf
+
+29-06-2018 12:06:35.2 [NOTICE] 20-20-CHANDANTHAKUR.svg
+29-06-2018 12:06:35.2 [DEBUG] stderr: ** Message: The preferences file C:\Users\xsmael\AppData\Roaming\inkscape\preferences.xml is not a valid XML document.
+** Message: Inkscape will run with default settings, and new settings will not be saved. 
+Entity: line 1246: parser error : Extra content at the end of the document
+          show="0"
+          ^
+WARNING: unknown type: rdf:rdf
+
+29-06-2018 12:06:35.7 [NOTICE] 21-21-AnikaMASSEY.svg
+29-06-2018 12:06:35.7 [DEBUG] stderr: ** Message: The preferences file C:\Users\xsmael\AppData\Roaming\inkscape\preferences.xml is not a valid XML document.
+** Message: Inkscape will run with default settings, and new settings will not be saved. 
+Entity: line 1246: parser error : Extra content at the end of the document
+          show="0"
+          ^
+WARNING: unknown type: rdf:rdf
+
+29-06-2018 12:06:36.2 [DEBUG] stderr: ** Message: The preferences file C:\Users\xsmael\AppData\Roaming\inkscape\preferences.xml is not a valid XML document.
+** Message: Inkscape will run with default settings, and new settings will not be saved. 
+Entity: line 1246: parser error : Extra content at the end of the document
+          show="0"
+          ^
+WARNING: unknown type: rdf:rdf
+
+29-06-2018 12:06:36.2 [NOTICE] 22-22-SeritaISAAC.svg
+29-06-2018 12:06:36.7 [NOTICE] 23-23-JerryOSSEYI.svg
+29-06-2018 12:06:36.8 [DEBUG] stderr: ** Message: The preferences file C:\Users\xsmael\AppData\Roaming\inkscape\preferences.xml is not a valid XML document.
+** Message: Inkscape will run with default settings, and new settings will not be saved. 
+Entity: line 1246: parser error : Extra content at the end of the document
+          show="0"
+          ^
+WARNING: unknown type: rdf:rdf
+
+29-06-2018 12:06:37.2 [NOTICE] 24-24-EudoxieYOHALI.svg
+29-06-2018 12:06:37.3 [DEBUG] stderr: ** Message: The preferences file C:\Users\xsmael\AppData\Roaming\inkscape\preferences.xml is not a valid XML document.
+** Message: Inkscape will run with default settings, and new settings will not be saved. 
+Entity: line 1246: parser error : Extra content at the end of the document
+          show="0"
+          ^
+WARNING: unknown type: rdf:rdf
+
+29-06-2018 12:06:37.7 [NOTICE] 25-25-AristoteBOFONDA.svg
+29-06-2018 12:06:37.7 [DEBUG] stderr: ** Message: The preferences file C:\Users\xsmael\AppData\Roaming\inkscape\preferences.xml is not a valid XML document.
+** Message: Inkscape will run with default settings, and new settings will not be saved. 
+Entity: line 1246: parser error : Extra content at the end of the document
+          show="0"
+          ^
+WARNING: unknown type: rdf:rdf
+
+29-06-2018 12:06:38.2 [NOTICE] 26-26-ChristelleNSENSELE.svg
+29-06-2018 12:06:38.3 [DEBUG] stderr: ** Message: The preferences file C:\Users\xsmael\AppData\Roaming\inkscape\preferences.xml is not a valid XML document.
+** Message: Inkscape will run with default settings, and new settings will not be saved. 
+Entity: line 1246: parser error : Extra content at the end of the document
+          show="0"
+          ^
+WARNING: unknown type: rdf:rdf
+
+29-06-2018 12:06:38.7 [NOTICE] 27-27-SarahMBUYI.svg
+29-06-2018 12:06:38.8 [DEBUG] stderr: ** Message: The preferences file C:\Users\xsmael\AppData\Roaming\inkscape\preferences.xml is not a valid XML document.
+** Message: Inkscape will run with default settings, and new settings will not be saved. 
+Entity: line 1246: parser error : Extra content at the end of the document
+          show="0"
+          ^
+WARNING: unknown type: rdf:rdf
+
+29-06-2018 12:06:39.2 [NOTICE] 28-28-SarahKUSI.svg
+29-06-2018 12:06:39.2 [DEBUG] stderr: ** Message: The preferences file C:\Users\xsmael\AppData\Roaming\inkscape\preferences.xml is not a valid XML document.
+** Message: Inkscape will run with default settings, and new settings will not be saved. 
+Entity: line 1246: parser error : Extra content at the end of the document
+          show="0"
+          ^
+WARNING: unknown type: rdf:rdf
+
+29-06-2018 12:06:39.7 [NOTICE] 29-29-JEANBEHIMY.svg
+29-06-2018 12:06:39.8 [DEBUG] stderr: ** Message: The preferences file C:\Users\xsmael\AppData\Roaming\inkscape\preferences.xml is not a valid XML document.
+** Message: Inkscape will run with default settings, and new settings will not be saved. 
+Entity: line 1246: parser error : Extra content at the end of the document
+          show="0"
+          ^
+WARNING: unknown type: rdf:rdf
+
+29-06-2018 12:06:40.2 [NOTICE] 30-30-DAVIDBOLOMO.svg
+29-06-2018 12:06:40.3 [DEBUG] stderr: ** Message: The preferences file C:\Users\xsmael\AppData\Roaming\inkscape\preferences.xml is not a valid XML document.
+** Message: Inkscape will run with default settings, and new settings will not be saved. 
+Entity: line 1246: parser error : Extra content at the end of the document
+          show="0"
+          ^
+WARNING: unknown type: rdf:rdf
+
+29-06-2018 12:06:40.7 [NOTICE] 31-31-AnnethMILLEY.svg
+29-06-2018 12:06:40.8 [DEBUG] stderr: ** Message: The preferences file C:\Users\xsmael\AppData\Roaming\inkscape\preferences.xml is not a valid XML document.
+** Message: Inkscape will run with default settings, and new settings will not be saved. 
+Entity: line 1246: parser error : Extra content at the end of the document
+          show="0"
+          ^
+WARNING: unknown type: rdf:rdf
+
+29-06-2018 12:06:41.2 [NOTICE] 32-32-DeborahMUSANGU.svg
+29-06-2018 12:06:41.4 [DEBUG] stderr: ** Message: The preferences file C:\Users\xsmael\AppData\Roaming\inkscape\preferences.xml is not a valid XML document.
+** Message: Inkscape will run with default settings, and new settings will not be saved. 
+Entity: line 1246: parser error : Extra content at the end of the document
+          show="0"
+          ^
+WARNING: unknown type: rdf:rdf
+
+29-06-2018 12:06:41.8 [NOTICE] 33-33-Eden.svg
+29-06-2018 12:06:41.8 [DEBUG] stderr: ** Message: The preferences file C:\Users\xsmael\AppData\Roaming\inkscape\preferences.xml is not a valid XML document.
+** Message: Inkscape will run with default settings, and new settings will not be saved. 
+Entity: line 1246: parser error : Extra content at the end of the document
+          show="0"
+          ^
+WARNING: unknown type: rdf:rdf
+
+29-06-2018 12:06:42.3 [NOTICE] 34-34-DIDIERLUBOYA.svg
+29-06-2018 12:06:42.3 [DEBUG] stderr: ** Message: The preferences file C:\Users\xsmael\AppData\Roaming\inkscape\preferences.xml is not a valid XML document.
+** Message: Inkscape will run with default settings, and new settings will not be saved. 
+Entity: line 1246: parser error : Extra content at the end of the document
+          show="0"
+          ^
+WARNING: unknown type: rdf:rdf
+
+29-06-2018 12:06:42.8 [NOTICE] 35-35-Pr.BERTIN KENFACK.svg
+29-06-2018 12:06:42.9 [DEBUG] stderr: ** Message: The preferences file C:\Users\xsmael\AppData\Roaming\inkscape\preferences.xml is not a valid XML document.
+** Message: Inkscape will run with default settings, and new settings will not be saved. 
+Entity: line 1246: parser error : Extra content at the end of the document
+          show="0"
+          ^
+WARNING: unknown type: rdf:rdf
+
+29-06-2018 12:06:43.3 [NOTICE] 36-36-GRACECOLOMBE.svg
+29-06-2018 12:06:43.4 [DEBUG] stderr: ** Message: The preferences file C:\Users\xsmael\AppData\Roaming\inkscape\preferences.xml is not a valid XML document.
+** Message: Inkscape will run with default settings, and new settings will not be saved. 
+Entity: line 1246: parser error : Extra content at the end of the document
+          show="0"
+          ^
+WARNING: unknown type: rdf:rdf
+
+29-06-2018 12:06:43.8 [NOTICE] 37-37-HERVEGOBEU.svg
+29-06-2018 12:06:44.3 [NOTICE] 38-38-NehaKENFACK.svg
+29-06-2018 12:06:44.4 [DEBUG] stderr: ** Message: The preferences file C:\Users\xsmael\AppData\Roaming\inkscape\preferences.xml is not a valid XML document.
+** Message: Inkscape will run with default settings, and new settings will not be saved. 
+Entity: line 1246: parser error : Extra content at the end of the document
+          show="0"
+          ^
+WARNING: unknown type: rdf:rdf
+
+29-06-2018 12:06:44.9 [DEBUG] stderr: ** Message: The preferences file C:\Users\xsmael\AppData\Roaming\inkscape\preferences.xml is not a valid XML document.
+** Message: Inkscape will run with default settings, and new settings will not be saved. 
+Entity: line 1246: parser error : Extra content at the end of the document
+          show="0"
+          ^
+WARNING: unknown type: rdf:rdf
+
+29-06-2018 12:06:45.3 [DEBUG] stderr: ** Message: The preferences file C:\Users\xsmael\AppData\Roaming\inkscape\preferences.xml is not a valid XML document.
+** Message: Inkscape will run with default settings, and new settings will not be saved. 
+Entity: line 1246: parser error : Extra content at the end of the document
+          show="0"
+          ^
+WARNING: unknown type: rdf:rdf
+
+29-06-2018 12:07:43.1 [DEBUG] stderr: ** Message: The preferences file C:\Users\xsmael\AppData\Roaming\inkscape\preferences.xml is not a valid XML document.
+** Message: Inkscape will run with default settings, and new settings will not be saved. 
+
+** (inkscape.exe:4484): WARNING **: Can't open file: out/svg/6-6-Ashakumari (doesn't exist)
+
+** (inkscape.exe:4484): WARNING **: Can't open file: out/svg/6-6-Ashakumari (doesn't exist)
+
+** (inkscape.exe:4484): WARNING **: Specified document out/svg/6-6-Ashakumari cannot be opened (does not exist or not a valid SVG file)
+
+** (inkscape.exe:4484): WARNING **: Can't open file: Gupta.svg (doesn't exist)
+
+** (inkscape.exe:4484): WARNING **: Can't open file: Gupta.svg (doesn't exist)
+
+** (inkscape.exe:4484): WARNING **: Specified document Gupta.svg cannot be opened (does not exist or not a valid SVG file)
+
+** (inkscape.exe:4484): WARNING **: Can't open file: Gupta.png (doesn't exist)
+
+** (inkscape.exe:4484): WARNING **: Specified document Gupta.png cannot be opened (does not exist or not a valid SVG file)
+Entity: line 1246: parser error : Extra content at the end of the document
+          show="0"
+          ^
+
+29-06-2018 12:07:44.4 [DEBUG] stderr: ** Message: The preferences file C:\Users\xsmael\AppData\Roaming\inkscape\preferences.xml is not a valid XML document.
+** Message: Inkscape will run with default settings, and new settings will not be saved. 
+
+** (inkscape.exe:13676): WARNING **: Can't open file: out/svg/35-35-Pr.BERTIN (doesn't exist)
+
+** (inkscape.exe:13676): WARNING **: Can't open file: out/svg/35-35-Pr.BERTIN (doesn't exist)
+
+** (inkscape.exe:13676): WARNING **: Specified document out/svg/35-35-Pr.BERTIN cannot be opened (does not exist or not a valid SVG file)
+
+** (inkscape.exe:13676): WARNING **: Can't open file: KENFACK.svg (doesn't exist)
+
+** (inkscape.exe:13676): WARNING **: Can't open file: KENFACK.svg (doesn't exist)
+
+** (inkscape.exe:13676): WARNING **: Specified document KENFACK.svg cannot be opened (does not exist or not a valid SVG file)
+
+** (inkscape.exe:13676): WARNING **: Can't open file: KENFACK.png (doesn't exist)
+
+** (inkscape.exe:13676): WARNING **: Specified document KENFACK.png cannot be opened (does not exist or not a valid SVG file)
+Entity: line 1246: parser error : Extra content at the end of the document
+          show="0"
+          ^
+
+29-06-2018 12:08:10.2 [NOTICE] 
+[
+   {
+      "dept": "PROTOCOL",
+      "n": "1",
+      "name": "ELI NIANGORAN"
+   },
+   {
+      "dept": "PROTOCOL",
+      "n": "2",
+      "name": "JOEL KAZADI"
+   },
+   {
+      "dept": "PROTOCOL",
+      "n": "3",
+      "name": "SIDHU NANI"
+   },
+   {
+      "dept": "PROTOCOL",
+      "n": "4",
+      "name": "JOHN BEIMY"
+   },
+   {
+      "dept": "PROTOCOL",
+      "n": "5",
+      "name": "VALENTINE KEVINS"
+   },
+   {
+      "dept": "HEALTHCARE",
+      "n": "6",
+      "name": "Asha kumari Gupta"
+   },
+   {
+      "dept": "HEALTHCARE",
+      "n": "7",
+      "name": "Malwa Chibango"
+   },
+   {
+      "dept": "HEALTHCARE",
+      "n": "8",
+      "name": "Alex Tshilumba"
+   },
+   {
+      "dept": "HEALTHCARE",
+      "n": "9",
+      "name": "Sarah"
+   },
+   {
+      "dept": "HEALTHCARE",
+      "n": "10",
+      "name": "Anneth MILLEY"
+   },
+   {
+      "dept": "HEALTHCARE",
+      "n": "11",
+      "name": "Naomi Sackey"
+   },
+   {
+      "dept": "MEDIA",
+      "n": "12",
+      "name": "JOSEPH NGALA"
+   },
+   {
+      "dept": "MEDIA",
+      "n": "13",
+      "name": "Wilfried Lorou"
+   },
+   {
+      "dept": "MEDIA",
+      "n": "14",
+      "name": "GHISLAIN NSUMPI"
+   },
+   {
+      "dept": "MEDIA",
+      "n": "15",
+      "name": "Marcel LOKASSA"
+   },
+   {
+      "dept": "MEDIA",
+      "n": "16",
+      "name": "Tresor THIABA"
+   },
+   {
+      "dept": "MEDIA",
+      "n": "17",
+      "name": "JONATHAN NYENGWA"
+   },
+   {
+      "dept": "MEDIA",
+      "n": "18",
+      "name": "Glody TSHIMANGA"
+   },
+   {
+      "dept": "MEDIA",
+      "n": "19",
+      "name": "Ismael OUEDRAOGO"
+   },
+   {
+      "dept": "CHOIR",
+      "n": "20",
+      "name": "CHANDAN THAKUR"
+   },
+   {
+      "dept": "CHOIR",
+      "n": "21",
+      "name": "Anika MASSEY"
+   },
+   {
+      "dept": "CHOIR",
+      "n": "22",
+      "name": "Serita ISAAC"
+   },
+   {
+      "dept": "CHOIR",
+      "n": "23",
+      "name": "Jerry OSSEYI"
+   },
+   {
+      "dept": "CHOIR",
+      "n": "24",
+      "name": "Eudoxie YOHALI"
+   },
+   {
+      "dept": "CHOIR",
+      "n": "25",
+      "name": "Aristote BOFONDA"
+   },
+   {
+      "dept": "CHOIR",
+      "n": "26",
+      "name": "Christelle NSENSELE"
+   },
+   {
+      "dept": "CHOIR",
+      "n": "27",
+      "name": "Sarah MBUYI"
+   },
+   {
+      "dept": "CHOIR",
+      "n": "28",
+      "name": "Sarah KUSI"
+   },
+   {
+      "dept": "CHOIR",
+      "n": "29",
+      "name": "JEAN BEHIMY"
+   },
+   {
+      "dept": "CHOIR",
+      "n": "30",
+      "name": "DAVID BOLOMO"
+   },
+   {
+      "dept": "CHOIR",
+      "n": "31",
+      "name": "Anneth MILLEY"
+   },
+   {
+      "dept": "CHOIR",
+      "n": "32",
+      "name": "Deborah MUSANGU"
+   },
+   {
+      "dept": "CHOIR",
+      "n": "33",
+      "name": "Eden"
+   },
+   {
+      "dept": "CHOIR",
+      "n": "34",
+      "name": "DIDIER LUBOYA"
+   },
+   {
+      "dept": "ADMINISTRATION",
+      "n": "35",
+      "name": "Pr. BERTIN KENFACK"
+   },
+   {
+      "dept": "ADMINISTRATION",
+      "n": "36",
+      "name": "GRACE COLOMBE"
+   },
+   {
+      "dept": "ADMINISTRATION",
+      "n": "37",
+      "name": "HERVE GOBEU"
+   },
+   {
+      "dept": "ADMINISTRATION",
+      "n": "38",
+      "name": "Neha KENFACK"
+   },
+   {
+      "dept": "",
+      "n": "",
+      "name": ""
+   },
+   {
+      "dept": "",
+      "n": "",
+      "name": ""
+   },
+   {
+      "dept": "",
+      "n": "",
+      "name": ""
+   },
+   {
+      "dept": "",
+      "n": "",
+      "name": ""
+   },
+   {
+      "dept": "",
+      "n": "",
+      "name": ""
+   },
+   {
+      "dept": "",
+      "n": "",
+      "name": ""
+   },
+   {
+      "dept": "",
+      "n": "",
+      "name": ""
+   },
+   {
+      "dept": "",
+      "n": "",
+      "name": ""
+   },
+   {
+      "dept": "",
+      "n": "",
+      "name": ""
+   },
+   {
+      "dept": "",
+      "n": "",
+      "name": ""
+   },
+   {
+      "dept": "",
+      "n": "",
+      "name": ""
+   },
+   {
+      "dept": "",
+      "n": "",
+      "name": ""
+   },
+   {
+      "dept": "",
+      "n": "",
+      "name": ""
+   },
+   {
+      "dept": "",
+      "n": "",
+      "name": ""
+   },
+   {
+      "dept": "",
+      "n": "",
+      "name": ""
+   },
+   {
+      "dept": "",
+      "n": "",
+      "name": ""
+   },
+   {
+      "dept": "",
+      "n": "",
+      "name": ""
+   },
+   {
+      "dept": "",
+      "n": "",
+      "name": ""
+   },
+   {
+      "dept": "",
+      "n": "",
+      "name": ""
+   },
+   {
+      "dept": "",
+      "n": "",
+      "name": ""
+   },
+   {
+      "dept": "",
+      "n": "",
+      "name": ""
+   },
+   {
+      "dept": "",
+      "n": "",
+      "name": ""
+   },
+   {
+      "dept": "",
+      "n": "",
+      "name": ""
+   },
+   {
+      "dept": "",
+      "n": "",
+      "name": ""
+   },
+   {
+      "dept": "",
+      "n": "",
+      "name": ""
+   },
+   {
+      "dept": "",
+      "n": "",
+      "name": ""
+   },
+   {
+      "dept": "",
+      "n": "",
+      "name": ""
+   },
+   {
+      "dept": "",
+      "n": "",
+      "name": ""
+   },
+   {
+      "dept": "",
+      "n": "",
+      "name": ""
+   },
+   {
+      "dept": "",
+      "n": "",
+      "name": ""
+   },
+   {
+      "dept": "",
+      "n": "",
+      "name": ""
+   },
+   {
+      "dept": "",
+      "n": "",
+      "name": ""
+   },
+   {
+      "dept": "",
+      "n": "",
+      "name": ""
+   },
+   {
+      "dept": "",
+      "n": "",
+      "name": ""
+   },
+   {
+      "dept": "",
+      "n": "",
+      "name": ""
+   },
+   {
+      "dept": "",
+      "n": "",
+      "name": ""
+   },
+   {
+      "dept": "",
+      "n": "",
+      "name": ""
+   },
+   {
+      "dept": "",
+      "n": "",
+      "name": ""
+   },
+   {
+      "dept": "",
+      "n": "",
+      "name": ""
+   },
+   {
+      "dept": "",
+      "n": "",
+      "name": ""
+   },
+   {
+      "dept": "",
+      "n": "",
+      "name": ""
+   },
+   {
+      "dept": "",
+      "n": "",
+      "name": ""
+   },
+   {
+      "dept": "",
+      "n": "",
+      "name": ""
+   },
+   {
+      "dept": "",
+      "n": "",
+      "name": ""
+   },
+   {
+      "dept": "",
+      "n": "",
+      "name": ""
+   },
+   {
+      "dept": "",
+      "n": "",
+      "name": ""
+   },
+   {
+      "dept": "",
+      "n": "",
+      "name": ""
+   },
+   {
+      "dept": "",
+      "n": "",
+      "name": ""
+   },
+   {
+      "dept": "",
+      "n": "",
+      "name": ""
+   },
+   {
+      "dept": "",
+      "n": "",
+      "name": ""
+   }
+]
+29-06-2018 12:08:10.7 [NOTICE] 1-1-ELINIANGORAN.svg
+29-06-2018 12:08:11.3 [NOTICE] 2-2-JOELKAZADI.svg
+29-06-2018 12:08:11.8 [NOTICE] 3-3-SIDHUNANI.svg
+29-06-2018 12:08:12.0 [DEBUG] stderr: ** Message: The preferences file C:\Users\xsmael\AppData\Roaming\inkscape\preferences.xml is not a valid XML document.
+** Message: Inkscape will run with default settings, and new settings will not be saved. 
+Entity: line 1246: parser error : Extra content at the end of the document
+          show="0"
+          ^
+WARNING: unknown type: rdf:rdf
+
+29-06-2018 12:08:12.3 [NOTICE] 4-4-JOHNBEIMY.svg
+29-06-2018 12:08:12.5 [DEBUG] stderr: ** Message: The preferences file C:\Users\xsmael\AppData\Roaming\inkscape\preferences.xml is not a valid XML document.
+** Message: Inkscape will run with default settings, and new settings will not be saved. 
+Entity: line 1246: parser error : Extra content at the end of the document
+          show="0"
+          ^
+WARNING: unknown type: rdf:rdf
+
+29-06-2018 12:08:12.8 [NOTICE] 5-5-VALENTINEKEVINS.svg
+29-06-2018 12:08:12.9 [DEBUG] stderr: ** Message: The preferences file C:\Users\xsmael\AppData\Roaming\inkscape\preferences.xml is not a valid XML document.
+** Message: Inkscape will run with default settings, and new settings will not be saved. 
+Entity: line 1246: parser error : Extra content at the end of the document
+          show="0"
+          ^
+WARNING: unknown type: rdf:rdf
+
+29-06-2018 12:08:13.3 [NOTICE] 6-6-Ashakumari Gupta.svg
+29-06-2018 12:08:13.5 [DEBUG] stderr: ** Message: The preferences file C:\Users\xsmael\AppData\Roaming\inkscape\preferences.xml is not a valid XML document.
+** Message: Inkscape will run with default settings, and new settings will not be saved. 
+Entity: line 1246: parser error : Extra content at the end of the document
+          show="0"
+          ^
+WARNING: unknown type: rdf:rdf
+
+29-06-2018 12:08:13.8 [NOTICE] 7-7-MalwaChibango.svg
+29-06-2018 12:08:14.1 [DEBUG] stderr: ** Message: The preferences file C:\Users\xsmael\AppData\Roaming\inkscape\preferences.xml is not a valid XML document.
+** Message: Inkscape will run with default settings, and new settings will not be saved. 
+Entity: line 1246: parser error : Extra content at the end of the document
+          show="0"
+          ^
+WARNING: unknown type: rdf:rdf
+
+29-06-2018 12:08:14.3 [NOTICE] 8-8-AlexTshilumba.svg
+29-06-2018 12:08:14.8 [NOTICE] 9-9-Sarah.svg
+29-06-2018 12:08:14.9 [DEBUG] stderr: ** Message: The preferences file C:\Users\xsmael\AppData\Roaming\inkscape\preferences.xml is not a valid XML document.
+** Message: Inkscape will run with default settings, and new settings will not be saved. 
+Entity: line 1246: parser error : Extra content at the end of the document
+          show="0"
+          ^
+WARNING: unknown type: rdf:rdf
+
+29-06-2018 12:08:15.3 [NOTICE] 10-10-AnnethMILLEY.svg
+29-06-2018 12:08:15.5 [DEBUG] stderr: ** Message: The preferences file C:\Users\xsmael\AppData\Roaming\inkscape\preferences.xml is not a valid XML document.
+** Message: Inkscape will run with default settings, and new settings will not be saved. 
+Entity: line 1246: parser error : Extra content at the end of the document
+          show="0"
+          ^
+WARNING: unknown type: rdf:rdf
+
+29-06-2018 12:08:15.9 [NOTICE] 11-11-NaomiSackey.svg
+29-06-2018 12:08:16.0 [DEBUG] stderr: ** Message: The preferences file C:\Users\xsmael\AppData\Roaming\inkscape\preferences.xml is not a valid XML document.
+** Message: Inkscape will run with default settings, and new settings will not be saved. 
+Entity: line 1246: parser error : Extra content at the end of the document
+          show="0"
+          ^
+WARNING: unknown type: rdf:rdf
+
+29-06-2018 12:08:16.4 [NOTICE] 12-12-JOSEPHNGALA.svg
+29-06-2018 12:08:16.5 [DEBUG] stderr: ** Message: The preferences file C:\Users\xsmael\AppData\Roaming\inkscape\preferences.xml is not a valid XML document.
+** Message: Inkscape will run with default settings, and new settings will not be saved. 
+Entity: line 1246: parser error : Extra content at the end of the document
+          show="0"
+          ^
+WARNING: unknown type: rdf:rdf
+
+29-06-2018 12:08:16.9 [NOTICE] 13-13-WilfriedLorou.svg
+29-06-2018 12:08:17.1 [DEBUG] stderr: ** Message: The preferences file C:\Users\xsmael\AppData\Roaming\inkscape\preferences.xml is not a valid XML document.
+** Message: Inkscape will run with default settings, and new settings will not be saved. 
+Entity: line 1246: parser error : Extra content at the end of the document
+          show="0"
+          ^
+WARNING: unknown type: rdf:rdf
+
+29-06-2018 12:08:17.4 [NOTICE] 14-14-GHISLAINNSUMPI.svg
+29-06-2018 12:08:17.5 [DEBUG] stderr: ** Message: The preferences file C:\Users\xsmael\AppData\Roaming\inkscape\preferences.xml is not a valid XML document.
+** Message: Inkscape will run with default settings, and new settings will not be saved. 
+Entity: line 1246: parser error : Extra content at the end of the document
+          show="0"
+          ^
+WARNING: unknown type: rdf:rdf
+
+29-06-2018 12:08:17.9 [NOTICE] 15-15-MarcelLOKASSA.svg
+29-06-2018 12:08:17.9 [DEBUG] stderr: ** Message: The preferences file C:\Users\xsmael\AppData\Roaming\inkscape\preferences.xml is not a valid XML document.
+** Message: Inkscape will run with default settings, and new settings will not be saved. 
+Entity: line 1246: parser error : Extra content at the end of the document
+          show="0"
+          ^
+WARNING: unknown type: rdf:rdf
+
+29-06-2018 12:08:18.4 [NOTICE] 16-16-TresorTHIABA.svg
+29-06-2018 12:08:18.4 [DEBUG] stderr: ** Message: The preferences file C:\Users\xsmael\AppData\Roaming\inkscape\preferences.xml is not a valid XML document.
+** Message: Inkscape will run with default settings, and new settings will not be saved. 
+Entity: line 1246: parser error : Extra content at the end of the document
+          show="0"
+          ^
+WARNING: unknown type: rdf:rdf
+
+29-06-2018 12:08:18.9 [NOTICE] 17-17-JONATHANNYENGWA.svg
+29-06-2018 12:08:19.0 [DEBUG] stderr: ** Message: The preferences file C:\Users\xsmael\AppData\Roaming\inkscape\preferences.xml is not a valid XML document.
+** Message: Inkscape will run with default settings, and new settings will not be saved. 
+Entity: line 1246: parser error : Extra content at the end of the document
+          show="0"
+          ^
+WARNING: unknown type: rdf:rdf
+
+29-06-2018 12:08:19.4 [NOTICE] 18-18-GlodyTSHIMANGA.svg
+29-06-2018 12:08:19.5 [DEBUG] stderr: ** Message: The preferences file C:\Users\xsmael\AppData\Roaming\inkscape\preferences.xml is not a valid XML document.
+** Message: Inkscape will run with default settings, and new settings will not be saved. 
+Entity: line 1246: parser error : Extra content at the end of the document
+          show="0"
+          ^
+WARNING: unknown type: rdf:rdf
+
+29-06-2018 12:08:19.9 [NOTICE] 19-19-IsmaelOUEDRAOGO.svg
+29-06-2018 12:08:20.0 [DEBUG] stderr: ** Message: The preferences file C:\Users\xsmael\AppData\Roaming\inkscape\preferences.xml is not a valid XML document.
+** Message: Inkscape will run with default settings, and new settings will not be saved. 
+Entity: line 1246: parser error : Extra content at the end of the document
+          show="0"
+          ^
+WARNING: unknown type: rdf:rdf
+
+29-06-2018 12:08:20.4 [NOTICE] 20-20-CHANDANTHAKUR.svg
+29-06-2018 12:08:20.6 [DEBUG] stderr: ** Message: The preferences file C:\Users\xsmael\AppData\Roaming\inkscape\preferences.xml is not a valid XML document.
+** Message: Inkscape will run with default settings, and new settings will not be saved. 
+Entity: line 1246: parser error : Extra content at the end of the document
+          show="0"
+          ^
+WARNING: unknown type: rdf:rdf
+
+29-06-2018 12:08:21.0 [NOTICE] 21-21-AnikaMASSEY.svg
+29-06-2018 12:08:21.1 [DEBUG] stderr: ** Message: The preferences file C:\Users\xsmael\AppData\Roaming\inkscape\preferences.xml is not a valid XML document.
+** Message: Inkscape will run with default settings, and new settings will not be saved. 
+Entity: line 1246: parser error : Extra content at the end of the document
+          show="0"
+          ^
+WARNING: unknown type: rdf:rdf
+
+29-06-2018 12:08:21.5 [NOTICE] 22-22-SeritaISAAC.svg
+29-06-2018 12:08:21.7 [DEBUG] stderr: ** Message: The preferences file C:\Users\xsmael\AppData\Roaming\inkscape\preferences.xml is not a valid XML document.
+** Message: Inkscape will run with default settings, and new settings will not be saved. 
+Entity: line 1246: parser error : Extra content at the end of the document
+          show="0"
+          ^
+WARNING: unknown type: rdf:rdf
+
+29-06-2018 12:08:22.0 [NOTICE] 23-23-JerryOSSEYI.svg
+29-06-2018 12:08:22.1 [DEBUG] stderr: ** Message: The preferences file C:\Users\xsmael\AppData\Roaming\inkscape\preferences.xml is not a valid XML document.
+** Message: Inkscape will run with default settings, and new settings will not be saved. 
+Entity: line 1246: parser error : Extra content at the end of the document
+          show="0"
+          ^
+WARNING: unknown type: rdf:rdf
+
+29-06-2018 12:08:22.5 [NOTICE] 24-24-EudoxieYOHALI.svg
+29-06-2018 12:08:22.7 [DEBUG] stderr: ** Message: The preferences file C:\Users\xsmael\AppData\Roaming\inkscape\preferences.xml is not a valid XML document.
+** Message: Inkscape will run with default settings, and new settings will not be saved. 
+Entity: line 1246: parser error : Extra content at the end of the document
+          show="0"
+          ^
+WARNING: unknown type: rdf:rdf
+
+29-06-2018 12:08:23.0 [NOTICE] 25-25-AristoteBOFONDA.svg
+29-06-2018 12:08:23.1 [DEBUG] stderr: ** Message: The preferences file C:\Users\xsmael\AppData\Roaming\inkscape\preferences.xml is not a valid XML document.
+** Message: Inkscape will run with default settings, and new settings will not be saved. 
+Entity: line 1246: parser error : Extra content at the end of the document
+          show="0"
+          ^
+WARNING: unknown type: rdf:rdf
+
+29-06-2018 12:08:23.5 [NOTICE] 26-26-ChristelleNSENSELE.svg
+29-06-2018 12:08:23.6 [DEBUG] stderr: ** Message: The preferences file C:\Users\xsmael\AppData\Roaming\inkscape\preferences.xml is not a valid XML document.
+** Message: Inkscape will run with default settings, and new settings will not be saved. 
+Entity: line 1246: parser error : Extra content at the end of the document
+          show="0"
+          ^
+WARNING: unknown type: rdf:rdf
+
+29-06-2018 12:08:24.0 [NOTICE] 27-27-SarahMBUYI.svg
+29-06-2018 12:08:24.2 [DEBUG] stderr: ** Message: The preferences file C:\Users\xsmael\AppData\Roaming\inkscape\preferences.xml is not a valid XML document.
+** Message: Inkscape will run with default settings, and new settings will not be saved. 
+Entity: line 1246: parser error : Extra content at the end of the document
+          show="0"
+          ^
+WARNING: unknown type: rdf:rdf
+
+29-06-2018 12:08:24.5 [NOTICE] 28-28-SarahKUSI.svg
+29-06-2018 12:08:24.7 [DEBUG] stderr: ** Message: The preferences file C:\Users\xsmael\AppData\Roaming\inkscape\preferences.xml is not a valid XML document.
+** Message: Inkscape will run with default settings, and new settings will not be saved. 
+Entity: line 1246: parser error : Extra content at the end of the document
+          show="0"
+          ^
+WARNING: unknown type: rdf:rdf
+
+29-06-2018 12:08:25.0 [NOTICE] 29-29-JEANBEHIMY.svg
+29-06-2018 12:08:25.1 [DEBUG] stderr: ** Message: The preferences file C:\Users\xsmael\AppData\Roaming\inkscape\preferences.xml is not a valid XML document.
+** Message: Inkscape will run with default settings, and new settings will not be saved. 
+Entity: line 1246: parser error : Extra content at the end of the document
+          show="0"
+          ^
+WARNING: unknown type: rdf:rdf
+
+29-06-2018 12:08:25.5 [NOTICE] 30-30-DAVIDBOLOMO.svg
+29-06-2018 12:08:25.6 [DEBUG] stderr: ** Message: The preferences file C:\Users\xsmael\AppData\Roaming\inkscape\preferences.xml is not a valid XML document.
+** Message: Inkscape will run with default settings, and new settings will not be saved. 
+Entity: line 1246: parser error : Extra content at the end of the document
+          show="0"
+          ^
+WARNING: unknown type: rdf:rdf
+
+29-06-2018 12:08:26.0 [NOTICE] 31-31-AnnethMILLEY.svg
+29-06-2018 12:08:26.2 [DEBUG] stderr: ** Message: The preferences file C:\Users\xsmael\AppData\Roaming\inkscape\preferences.xml is not a valid XML document.
+** Message: Inkscape will run with default settings, and new settings will not be saved. 
+Entity: line 1246: parser error : Extra content at the end of the document
+          show="0"
+          ^
+WARNING: unknown type: rdf:rdf
+
+29-06-2018 12:08:26.6 [NOTICE] 32-32-DeborahMUSANGU.svg
+29-06-2018 12:08:26.7 [DEBUG] stderr: ** Message: The preferences file C:\Users\xsmael\AppData\Roaming\inkscape\preferences.xml is not a valid XML document.
+** Message: Inkscape will run with default settings, and new settings will not be saved. 
+Entity: line 1246: parser error : Extra content at the end of the document
+          show="0"
+          ^
+WARNING: unknown type: rdf:rdf
+
+29-06-2018 12:08:27.1 [NOTICE] 33-33-Eden.svg
+29-06-2018 12:08:27.2 [DEBUG] stderr: ** Message: The preferences file C:\Users\xsmael\AppData\Roaming\inkscape\preferences.xml is not a valid XML document.
+** Message: Inkscape will run with default settings, and new settings will not be saved. 
+Entity: line 1246: parser error : Extra content at the end of the document
+          show="0"
+          ^
+WARNING: unknown type: rdf:rdf
+
+29-06-2018 12:08:27.6 [NOTICE] 34-34-DIDIERLUBOYA.svg
+29-06-2018 12:08:27.8 [DEBUG] stderr: ** Message: The preferences file C:\Users\xsmael\AppData\Roaming\inkscape\preferences.xml is not a valid XML document.
+** Message: Inkscape will run with default settings, and new settings will not be saved. 
+Entity: line 1246: parser error : Extra content at the end of the document
+          show="0"
+          ^
+WARNING: unknown type: rdf:rdf
+
+29-06-2018 12:08:28.1 [NOTICE] 35-35-Pr.BERTIN KENFACK.svg
+29-06-2018 12:08:28.2 [DEBUG] stderr: ** Message: The preferences file C:\Users\xsmael\AppData\Roaming\inkscape\preferences.xml is not a valid XML document.
+** Message: Inkscape will run with default settings, and new settings will not be saved. 
+Entity: line 1246: parser error : Extra content at the end of the document
+          show="0"
+          ^
+WARNING: unknown type: rdf:rdf
+
+29-06-2018 12:08:28.6 [NOTICE] 36-36-GRACECOLOMBE.svg
+29-06-2018 12:08:28.7 [DEBUG] stderr: ** Message: The preferences file C:\Users\xsmael\AppData\Roaming\inkscape\preferences.xml is not a valid XML document.
+** Message: Inkscape will run with default settings, and new settings will not be saved. 
+Entity: line 1246: parser error : Extra content at the end of the document
+          show="0"
+          ^
+WARNING: unknown type: rdf:rdf
+
+29-06-2018 12:08:29.1 [NOTICE] 37-37-HERVEGOBEU.svg
+29-06-2018 12:08:29.6 [NOTICE] 38-38-NehaKENFACK.svg
+29-06-2018 12:08:29.7 [DEBUG] stderr: ** Message: The preferences file C:\Users\xsmael\AppData\Roaming\inkscape\preferences.xml is not a valid XML document.
+** Message: Inkscape will run with default settings, and new settings will not be saved. 
+Entity: line 1246: parser error : Extra content at the end of the document
+          show="0"
+          ^
+WARNING: unknown type: rdf:rdf
+
+29-06-2018 12:08:30.3 [DEBUG] stderr: ** Message: The preferences file C:\Users\xsmael\AppData\Roaming\inkscape\preferences.xml is not a valid XML document.
+** Message: Inkscape will run with default settings, and new settings will not be saved. 
+Entity: line 1246: parser error : Extra content at the end of the document
+          show="0"
+          ^
+WARNING: unknown type: rdf:rdf
+
+29-06-2018 12:08:30.7 [DEBUG] stderr: ** Message: The preferences file C:\Users\xsmael\AppData\Roaming\inkscape\preferences.xml is not a valid XML document.
+** Message: Inkscape will run with default settings, and new settings will not be saved. 
+Entity: line 1246: parser error : Extra content at the end of the document
+          show="0"
+          ^
+WARNING: unknown type: rdf:rdf
+
+29-06-2018 12:08:35.3 [DEBUG] stderr: ** Message: The preferences file C:\Users\xsmael\AppData\Roaming\inkscape\preferences.xml is not a valid XML document.
+** Message: Inkscape will run with default settings, and new settings will not be saved. 
+
+** (inkscape.exe:8172): WARNING **: Can't open file: out/svg/35-35-Pr.BERTIN (doesn't exist)
+
+** (inkscape.exe:8172): WARNING **: Can't open file: out/svg/35-35-Pr.BERTIN (doesn't exist)
+
+** (inkscape.exe:8172): WARNING **: Specified document out/svg/35-35-Pr.BERTIN cannot be opened (does not exist or not a valid SVG file)
+
+** (inkscape.exe:8172): WARNING **: Can't open file: KENFACK.svg (doesn't exist)
+
+** (inkscape.exe:8172): WARNING **: Can't open file: KENFACK.svg (doesn't exist)
+
+** (inkscape.exe:8172): WARNING **: Specified document KENFACK.svg cannot be opened (does not exist or not a valid SVG file)
+
+** (inkscape.exe:8172): WARNING **: Can't open file: KENFACK.png (doesn't exist)
+
+** (inkscape.exe:8172): WARNING **: Specified document KENFACK.png cannot be opened (does not exist or not a valid SVG file)
+Entity: line 1246: parser error : Extra content at the end of the document
+          show="0"
+          ^
+
+29-06-2018 12:08:39.0 [DEBUG] stderr: ** Message: The preferences file C:\Users\xsmael\AppData\Roaming\inkscape\preferences.xml is not a valid XML document.
+** Message: Inkscape will run with default settings, and new settings will not be saved. 
+
+** (inkscape.exe:4680): WARNING **: Can't open file: out/svg/6-6-Ashakumari (doesn't exist)
+
+** (inkscape.exe:4680): WARNING **: Can't open file: out/svg/6-6-Ashakumari (doesn't exist)
+
+** (inkscape.exe:4680): WARNING **: Specified document out/svg/6-6-Ashakumari cannot be opened (does not exist or not a valid SVG file)
+
+** (inkscape.exe:4680): WARNING **: Can't open file: Gupta.svg (doesn't exist)
+
+** (inkscape.exe:4680): WARNING **: Can't open file: Gupta.svg (doesn't exist)
+
+** (inkscape.exe:4680): WARNING **: Specified document Gupta.svg cannot be opened (does not exist or not a valid SVG file)
+
+** (inkscape.exe:4680): WARNING **: Can't open file: Gupta.png (doesn't exist)
+
+** (inkscape.exe:4680): WARNING **: Specified document Gupta.png cannot be opened (does not exist or not a valid SVG file)
+Entity: line 1246: parser error : Extra content at the end of the document
+          show="0"
+          ^
+

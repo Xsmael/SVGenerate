@@ -1,0 +1,21 @@
+{
+  "name": "badge-generator",
+  "version": "1.0.0",
+  "description": "Generate badges in mass based on an SVG template",
+  "main": "generator.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Xsmael",
+  "license": "MIT",
+  "dependencies": {
+    "exceljs": "^3.6.1",
+    "fs-extra": "^8.1.0",
+    "jsdom": "^11.11.0",
+    "noogger": "^0.1.8",
+    "qrcode-generator": "^1.4.0",
+    "svg-to-png": "2.0.1",
+    "xls-to-json": "^0.5.0",
+    "xlsx": "^0.13.2"
+  }
+}

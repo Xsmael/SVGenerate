@@ -14,7 +14,7 @@
     "jsdom": "^11.11.0",
     "noogger": "^0.1.8",
     "qrcode-generator": "^1.4.0",
-    "svg-to-png": "2.0.1",
+    "svg-to-png": "4.0.0",
     "xls-to-json": "^0.5.0",
     "xlsx": "^0.13.2"
   }
